@@ -1,0 +1,67 @@
+.card {
+    border: 1px solid hsl(0, 0%, 80%);
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px hsl(0, 0%, 0%, .1);
+    background-color: #FFF;
+    padding: 10px 5px;
+    margin: 10px;
+    text-align: center;
+    vertical-align: top;
+    max-width: 200px;
+    display: inline-block;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    & p {
+      margin: .5em 0;
+    }
+    & .card-img {
+      max-width: 80%;
+      height: auto;
+      border-radius: 20px;
+      border: 5px solid #555;
+      margin: 10px 0;
+    }
+    & h1, h2 {
+      margin-block-start: 0;
+      margin-block-end: 0;
+      font-style: oblique;
+    }
+    & h4 {
+      margin: 0;
+    }
+    & .subheader {
+      font-weight: bold;
+      font-size: 1.1rem;
+      margin: 1rem 0 0;
+    }
+    & ul {
+      margin-top: 0;
+      margin-bottom: .5rem;
+      padding-left: 1.5rem;
+      text-align: left;
+    }
+    & li {
+      font-size: .9rem;
+      margin: .25rem 0;
+    }          
+}
+
+#beverages-future .card {
+  max-width: 250px;
+}
+
+dialog .card {
+  max-width:900px;
+  border: none;
+  margin: auto;
+  padding: 0;
+  display: flex;
+  box-shadow: none;
+  & .card-img {
+    max-width: 50%;
+    border: none;
+    max-height: fit-content;
+  }  
+  & .card-content {
+    margin: auto;
+  }  
+}
