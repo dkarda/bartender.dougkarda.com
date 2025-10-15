@@ -27,6 +27,11 @@ const Navbar = () => {
                             alt="FutureBeverages icon" className="upside-down" />
                         <span>Future Beverages</span>
                     </CustomLink>
+                    <CustomLink to="/wine">
+                        <img src="https://assets.dougkarda.com/images/icons/icon-wine-trans.png" 
+                            alt="Wine icon" />
+                        <span>Wine</span>
+                    </CustomLink>
                     <CustomLink to="/whiskey">
                         <img src="https://assets.dougkarda.com/images/icons/icon-whiskey-trans.png"
                             alt="Whiskey icon" />
@@ -36,11 +41,6 @@ const Navbar = () => {
                         <img src="https://assets.dougkarda.com/images/icons/icon-liquor-trans.png" 
                             alt="Liquor icon" />
                         <span>Liquor</span>
-                    </CustomLink>
-                    <CustomLink to="/wine">
-                        <img src="https://assets.dougkarda.com/images/icons/icon-wine-trans.png" 
-                            alt="Wine icon" />
-                        <span>Wine</span>
                     </CustomLink>
                 </ul>
             </nav>
