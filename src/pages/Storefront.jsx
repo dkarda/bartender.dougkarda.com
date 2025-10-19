@@ -56,6 +56,7 @@ const Storefront = () => {
               key={index}
               img={item.img}
               product={item.product}
+              caption={item.caption}
               affiliateLink={item.affiliateLink}
             />
           ))}

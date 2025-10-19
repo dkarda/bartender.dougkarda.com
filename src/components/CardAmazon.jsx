@@ -16,7 +16,10 @@ function CardAmazon(props) {
               alt="alt tag"
             />
           )}
-          {props.product && <h3>{props.product}</h3>}
+          <div className="copy">
+            {props.product && <h3>{props.product}</h3>}
+            {props.caption && <p>{props.caption}</p>}
+          </div>
         </a>
       )}
     </div>
