@@ -17,6 +17,11 @@ const Navbar = () => {
                     <span></span>
                 </div>
                 <ul className={menuOpen ? "open" : ""}>
+                    <CustomLink to="/shop">
+                        <img src="https://assets.dougkarda.com/images/icons/icon-shopping-cart.png" 
+                            alt="Beverages icon" />
+                        <span>The Store</span>
+                    </CustomLink>
                     <CustomLink to="/beverages">
                         <img src="https://assets.dougkarda.com/images/icons/icon-beverage-trans.png" 
                             alt="Beverages icon" />

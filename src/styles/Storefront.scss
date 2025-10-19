@@ -1,0 +1,9 @@
+.storefront-wrapper {
+  & .header {
+    max-width: 750px;
+    margin: 0 auto;
+    & p {
+      text-align: justify;
+    }
+  }
+}
