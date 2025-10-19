@@ -39,15 +39,19 @@ const Storefront = () => {
         <div className="header">
           <h1 className="header">DEF Amazon Storefront</h1>
           <p>
-            There are many resources and products that can help one get started
-            or elevate their home bartending knowledge and experience. Here I
-            will share product links via the Amazon affiliate program for things
-            I have found, used and suggest to those interested.
+            Looking to get started on your home bar? Or perhaps looking to take
+            yours to the next level? There are many resources to help get you
+            there.
           </p>
           <p>
-            The program helps me earn a few pennies for promoting items I deem
-            of quality, but come at no added cost to you. Any support is greatly
-            appreciated.
+            Below are product links via the Amazon affiliate program for
+            products that I personally use in my home to make the cocktail
+            experience easier and better.
+          </p>
+          <p>
+            PSA: The program helps me earn a few pennies for promoting items I
+            deem of quality, but come at no added cost to you. Any support is
+            greatly appreciated.
           </p>
         </div>
         <div className="body">
