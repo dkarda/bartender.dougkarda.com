@@ -96,6 +96,7 @@ const Liquor = () => {
                       producer={item.producer}
                       brand={item.brand}
                       type={item.type}
+                      count={item.count}
                   />
                   </button>
               ))}
