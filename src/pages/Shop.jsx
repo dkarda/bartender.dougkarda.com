@@ -80,7 +80,7 @@ const Shop = () => {
             key={item.affiliateLink}
             variant="product"
             href={item.affiliateLink}
-            img={imageSrc("affiliate/bar", item.img)}
+            img={imageSrc("affiliate", item.img)}
             title={item.product}
             meta={item.caption}
             badge={labelOf(SHOP_LABELS, item.subcategory)}

@@ -12,7 +12,7 @@ Publish: `npm run build`, then deploy the contents of `dist/` so `index.html` an
 | Recipes | `src/data/beverages.json` | `static/images/beverages/` | `negroni.webp` |
 | Bottles | `src/data/liquor-inventory.json` | `static/images/liquors/` | `aviation-gin.webp` |
 | Wine | `src/data/wine-inventory.json` | `static/images/wines/` | `merkin-chupacabra.webp` |
-| Shop | `src/data/amazon-bar.json` | `static/images/affiliate/bar/` | `oxo-jigger` (no extension) |
+| Shop | `src/data/amazon-bar.json` | `static/images/affiliate/` | `oxo-jigger` (no extension) |
 
 The page address is built from the name (`title` / `temptitle`, bottle title, or wine producer + brand + year). Changing that name changes the URL.
 
@@ -49,7 +49,7 @@ The page address is built from the name (`title` / `temptitle`, bottle title, or
 1. Open `src/data/amazon-bar.json`.
 2. Copy an existing object. Keep `"category": "bar"`.
 3. `"subcategory"` is `book`, `drinkware`, `barware`, `ingredients`, or `cleaning`.
-4. Drop the photo in `static/images/affiliate/bar/` as `your-file.webp`. Set `"img"` to `your-file` with **no** extension.
+4. Drop the photo in `static/images/affiliate/` as `your-file.webp`. Set `"img"` to `your-file` with **no** extension.
 5. Check `/shop`.
 
 ## Publish
