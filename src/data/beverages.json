@@ -1,0 +1,6217 @@
+[
+  {
+    "refined": "y",
+    "title": "Rich Grenadine",
+    "servingSize": "Many servings (15oz / 445ml)",
+    "prepTime": "1 min",
+    "cookingTime": "10 mins (approx)",
+    "img": "rich-grenadine.webp",
+    "equipment": [
+      "500ml glass bottle",
+      "Small sauce pan",
+      "Funnel"
+    ],
+    "ingredients": [
+      "2 1/2 cups sugar (white granulated)",
+      "1 1/2 cup 100% pure pomegranate juice",
+      "1 1/2 oz Pomegranate Molasses",
+      "4 drops Orange Blossom Water"
+    ],
+    "directions": [
+      "This is based on using a 500ml bottle for storage. Adjust amounts accordingly.",
+      "Pour juice into the sauce pan and heat on low to medium",
+      "After a few minutes, add the sugar and stir regularly",
+      "Once sugar is fully integrated, stir in molasses, remove from the heat and let cool to room temp",
+      "Stir in blossom water, funnel into bottle and enjoy!",
+      "The 2.5:1.5 ratio helps keep the solution shelf stable. Adjust recipe according to taste. Or go 1:1, refrigerate and be careful of spoilage."
+    ],
+    "category": "ingredient"
+  },
+  {
+    "refined": "y",
+    "title": "5:1 Saline Solution",
+    "servingSize": "Several (2oz / 60ml)",
+    "prepTime": "1 min",
+    "cookingTime": "5 mins (approx)",
+    "img": "saline.webp",
+    "equipment": [
+      "60ml glass bottle",
+      "Small sauce pan",
+      "Funnel"
+    ],
+    "ingredients": [
+      "250mg water",
+      "50mg salt"
+    ],
+    "directions": [
+      "Pour juice into the sauce pan, add salt and heat on medium",
+      "Stir regularly until salt is fully integrated",
+      "Remove from the heat and let cool to room temp",
+      "Funnel into bottle and enjoy!"
+    ],
+    "category": "ingredient"
+  },
+  {
+    "refined": "y",
+    "title": "Rich Simple Syrup",
+    "servingSize": "Many servings (~ 8.3oz / 250ml)",
+    "prepTime": "1 min",
+    "cookingTime": "10 mins (approx)",
+    "img": "rich-simple-syrup.webp",
+    "equipment": [
+      "250ml glass bottle",
+      "Small sauce pan",
+      "Funnel"
+    ],
+    "ingredients": [
+      "1.5 cups white granulated sugar",
+      ".75 cup water (filtered/bottled preferable)"
+    ],
+    "directions": [
+      "This is based on using a 250ml bottle for storage. Adjust amounts accordingly.",
+      "Pour water into the sauce pan and heat on low to medium",
+      "After a little steam starts rising, slowly add the sugar and stir regularly",
+      "After the solution becomes clear (relative to sugar color) remove from the heat and let cool to room temp",
+      "Strain and funnel solution into bottle and enjoy!"
+    ],
+    "notes": [
+      "The 2:1 ratio keeps the solution shelf stable. Or go 1.5:1 or 1:1, refrigerate and be careful of spoilage.",
+      "Don't let it come to a boil. Some water will evaporate, so exact amounts will vary."
+    ],
+    "category": "ingredient"
+  },
+  {
+    "refined": "y",
+    "title": "Rich Demerara Syrup",
+    "servingSize": "Many servings (~ 8.3oz / 250ml)",
+    "prepTime": "1 min",
+    "cookingTime": "10 mins (approx)",
+    "img": "rich-demerara-syrup.webp",
+    "equipment": [
+      "250ml glass bottle",
+      "Small sauce pan",
+      "Funnel"
+    ],
+    "ingredients": [
+      "1.5 cups white granulated sugar",
+      ".75 cup water (filtered/bottled preferable)"
+    ],
+    "directions": [
+      "This is based on using a 250ml bottle for storage. Adjust amounts accordingly.",
+      "Pour water into the sauce pan and heat on low to medium",
+      "After a little steam starts rising, slowly add the sugar and stir regularly",
+      "After the solution becomes clear (relative to sugar color) remove from the heat and let cool to room temp",
+      "Strain and funnel solution into bottle and enjoy!"
+    ],
+    "notes": [
+      "The 2:1 ratio keeps the solution shelf stable. Or go 1.5:1 or 1:1, refrigerate and be careful of spoilage.",
+      "Don't let it come to a boil. Some water will evaporate, so exact amounts will vary."
+    ],
+    "category": "ingredient"
+  },
+  {
+    "refined": "y",
+    "title": "Rich Honey Syrup",
+    "servingSize": "Many servings (~ 8.3oz / 250ml)",
+    "prepTime": "1 min",
+    "cookingTime": "10 mins (approx)",
+    "img": "honey-syrup.webp",
+    "equipment": [
+      "250ml glass bottle",
+      "Small sauce pan",
+      "Funnel"
+    ],
+    "ingredients": [
+      ".75 cups honey",
+      ".25 cup water (filtered/bottled preferable)"
+    ],
+    "directions": [
+      "This is based on using a 250ml bottle for storage. Adjust amounts accordingly.",
+      "Pour honey into into the sauce pan at low to medium heat",
+      "Add water and stir regularly",
+      "Do not let it come to a boil.",
+      "After the solution appears integrated, remove from the heat and let cool to room temp",
+      "Strain and funnel solution into bottle and enjoy!"
+    ],
+    "category": "ingredient"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Caipirinha",
+    "img": "caipirinha.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Paring knife",
+      "Bar spoon",
+      "Muddler",
+      "Lewis bag and mallet"
+    ],
+    "ingredients": [
+      "1 lime",
+      "2 barspoons sugar",
+      "2 oz Cachaca",
+      "Crushed ice"
+    ],
+    "directions": [
+      "Start with a double rocks glass",
+      "Cut ends off lime, then in half, then into 8ths and put in glass",
+      "Add sugar and muddle until well mixed, then add Cachaca",
+      "Fill rest of the glass with crushed ice",
+      "Stir and enjoy! Saúde!"
+    ],
+    "notes": [
+      "The Caipirinha is the national drink of Brazil.",
+      "The history is murky, but it appears to have been around by at least the 1850s.",
+      "One story credits creation by a farmer as a fancy celebratory cocktail, another suggests is was a medicinal concoktail."
+    ],
+    "category": "cachaca"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Rabo de Galo",
+    "title": "",
+    "img": "rabo-de-galo.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Bar spoon",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".25 oz Cynar",
+      ".5 oz sweet vermouth",
+      "1.5 oz Cachaca",
+      "1 block ice",
+      "Lime twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add ingredients straight to the glass",
+      "Drop in ice, stir to chill, add twist and enjoy! Saúde!"
+    ],
+    "notes": [
+      "The origins with variations of this date back to the 1950s.",
+      "Cynar is the registered official Amaro, but it can vary.",
+      "In 2023, this drink was officially recognized by the International Bartenders Association."
+    ],
+    "category": "cachaca"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Batida Rosa",
+    "title": "",
+    "img": "batida-rosa.webp",
+    "equipment": [
+      "Collins glass",
+      "Bar spoon",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".75 oz pineapple juice",
+      ".75 oz lemon juice",
+      ".25 oz rich demerara syrup",
+      ".25 oz rich grenadine",
+      "1.5 oz Cachaca",
+      "~3 oz club soda"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients, sans soda, into short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Add ice to glass, strain in ingredients, top with soda and enjoy!"
+    ],
+    "category": "cachaca"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Daiquiri",
+    "img": "daiquiri.webp",
+    "equipment": [
+      "Coupe glass",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      "1 oz lime juice",
+      ".5 oz rich simple syrup",
+      "2 oz light rum",
+      "Lime wheel to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "Credit for this classic goes back to 1898 and Jennings Cox, an engineer working in the mining town of Daiquiri, Cuba.",
+      "While he gets all the credit, logic and the prevelance of the three ingredients suggests the combination must have existed prior.",
+      "His original creation ended with the ingredients in an ice filled glass, kind of in between the classic cocktail served up and the party favorite, frozen daiquiri.",
+      "About 10 years later, Admiral Lucious Johnson visited the town, discovered the drink, and brought it back to the U.S. where its popularity took off."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Dark Daiquiri",
+    "title": "",
+    "img": "dark-daiquiri.webp",
+    "equipment": [
+      "Coupe glass",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      "1 oz lime juice",
+      ".5 oz rich demerara syrup",
+      "2 oz dark rum",
+      "Lime wheel to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "I'm not sure where this variation started, but due to its simplicity, it probably goes back a ways."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Parasol",
+    "title": "",
+    "img": "daiquiri.webp",
+    "equipment": [
+      "Coupe glass",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".5 oz pineapple juice",
+      ".75 oz lime juice",
+      ".75 oz banana liquor",
+      "2 oz light rum",
+      "Nutmeg"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!",
+      "This can be found in Tiki: Modern Tropical Cocktails by Shannon Mustipher out of New York City."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Pineapple Daiquiri",
+    "img": "pineapple-daiquiri.webp",
+    "equipment": [
+      "Coupe glass",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".5 oz rich simple syrup",
+      ".5 oz lime juice",
+      ".75 oz pineapple juice",
+      "2 oz aged rum"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "This can be found in Tiki: Modern Tropical Cocktails by Shannon Mustipher out of New York City."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Shrunken Skull",
+    "img": "shrunken-skull.webp",
+    "equipment": [
+      "Tiki glass",
+      "Boston shaker",
+      "Lewis bag and mallet",
+      "Paring knife",
+      "Fruit juicer",
+      "Straw"
+    ],
+    "ingredients": [
+      ".5 oz rich grenadine",
+      "1 oz lime juice",
+      "1 oz gold rum",
+      "1 oz demerara rum"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Crush ice with the Lewis bag and mallet",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Pour all contents into the glass, top with more ice if needed, add straw and enjoy!"
+    ],
+    "notes": [
+      "This is a classic tiki cocktail from the 1950s or early 1960s, created by Donn \"the Beachcomber\" Beach, a founding figure of the tiki bar movement."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Old Devil",
+    "title": "",
+    "img": "old-devil.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Bar spoon",
+      "Muddler",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      "1 cube demerara sugar",
+      "4 dashes Angostura bitters",
+      "1 oz aged rum",
+      ".75 oz spiced rum",
+      ".25 oz overproof rum",
+      "Orange twist",
+      "1 large ice cube"
+    ],
+    "directions": [
+      "Put sugar cube in glass and soak with bitters",
+      "Muddle sugar to spread out across bottom of the glass",
+      "Drop in ice cube then pour over the rum and stir",
+      "Dash in bitters, twist and drop in the orange peel and enjoy!"
+    ],
+    "notes": [
+      "Credit here goes to Los Angeles Bartender Danny Cymbal some time around 2013",
+      "A 1651 document in Barbados referred to rum as 'Kill-Devil', saying it was a hot, hellish and terrible liquor."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Old Fashioned",
+    "img": "old-fashioned.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Bar spoon",
+      "Muddler",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      "1 cube demerara sugar",
+      "4 dashes Angostura bitters",
+      "2 oz whiskey (traditionally bourbon or rye)",
+      "2 dashes of orange bitters",
+      "Orange twist",
+      "1 large ice cube",
+      "1 Luxardo Maraschino Cherry"
+    ],
+    "directions": [
+      "Put sugar cube in glass and soak with bitters",
+      "Muddle sugar to spread out across bottom of the glass",
+      "Drop in ice cube then pour over the whiskey and stir",
+      "Dash in bitters, twist and drop in the orange peel, add the cherry and enjoy!"
+    ],
+    "notes": [
+      "Back in the early 1800s, the term cocktail was defined as, \"a potent concoction of spirits, bitters, water, and sugar.\"",
+      "As time moved on and bartenders were experimenting with all sorts of mixtures, some ended up asking for their drink, the old-fashioned way.",
+      "It was at this point that whiskey was generally accepted as the defacto spirit, more notably, rye."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "",
+    "temptitle": "King Kong",
+    "img": "king-kong.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Bar spoon",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      "3 dashes Angostura bitters",
+      ".5 oz banana liqueur",
+      ".5 oz Smith & Cross Jamaican Rum",
+      "1.5 oz bonded bourbon",
+      "Lemon twist"
+    ],
+    "directions": [
+      "Add ingredients to mixing glass and stir until very cold",
+      "Drop a block ice cube into glass then strain over the liquids",
+      "Add lemon twist and enjoy!"
+    ],
+    "notes": [
+      "From what I can tell, this was invented by Sly Augustin, proprietor of the Trailer Happiness rum bar in West London."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Banana Rum Old Fashioned",
+    "img": "banana-rum-old-fashioned.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Bar spoon",
+      "Muddler",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      "1 dashes Angostura bitters",
+      ".5 oz banana liqueur",
+      "1 oz light rum",
+      "1 oz bourbon",
+      "Orange twist"
+    ],
+    "directions": [
+      "Add ingredients to mixing glass and stir until very cold",
+      "Drop a block ice cube into glass then strain over the liquids",
+      "Add orange twist and enjoy!"
+    ],
+    "notes": [
+      "From what I can tell, this was invented by Sly Augustin, proprietor of the Trailer Happiness rum bar in West London."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 3,
+    "title": "Kamikaze cocktail",
+    "img": "kamikaze.webp",
+    "equipment": [
+      "Coupe glass",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Jigger",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      "1.5 oz lime juice",
+      "1.5 oz triple sec",
+      "2.5 oz vodka"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "Kamikaze, by definition, means 'divine wind' in Japanese.",
+      "The drink was thought to have been created at an American Naval Base, shortly after World War II.",
+      "It gained popularity in the 70s and 80s when shot culture really took hold."
+    ],
+    "category": "vodka"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Bloody Mary ... Gone Rogue",
+    "img": "bloody-mary.webp",
+    "equipment": [
+      "Large tulip glass",
+      "Boston shaker",
+      "Jigger",
+      "Paring knife",
+      "Fruit juicer",
+      "Bar spoon",
+      "Straw"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      ".75 oz Worcestershire",
+      "1.5 oz vodka",
+      "4 oz tomato juice",
+      "3 (or more) drops High River Rogue hot sauce",
+      "cracked black pepper",
+      "few shakes of celery salt",
+      "1 tsp horseradish",
+      "2 green olives"
+    ],
+    "directions": [
+      "Put lemon juice, Worcestershire, vodka, tomato juice, hot sauce, pepper and celery salt in shaker",
+      "Slowly roll between shaker cup 4-5 times ending in the small tin",
+      "Add ice cubes to small tin til almost full, connect to large tin and very slowly roll 4-5 times",
+      "Pour all contents into the glass, add 2 barspoons of horseradish and slowly stir up with bar spoon",
+      "Add skewered olives, straw and enjoy!"
+    ],
+    "notes": [
+      "One can elevate this a touch by giving the glass a celery salt rim.",
+      "This is a classic Bloody Mary recipe, just specifically named due to the use of the great Rogue hot sauce.",
+      "This drink goes back to Harry's American Bar in Paris in the 1920, thanks to barman Fernand Petiot.",
+      "The name is believed to come from a regular who said the drink reminded him of Mary, a bartender at Chicago's Bucket of Blood."
+    ],
+    "category": "vodka"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Sombrero",
+    "img": "sombrero.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger"
+    ],
+    "ingredients": [
+      "3 oz milk",
+      "2 oz Kahlua"
+    ],
+    "directions": [
+      "Fill glass about 3/4 with ice",
+      "Add Kahlua and stir well",
+      "Slowly pour milk over back of the spoon to create the top layer",
+      "Give a gentle little stir to create a cloudy look and enjoy!"
+    ],
+    "notes": [
+      "This beverage was another creation from the 1970s sweet dessert cocktail craze."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Brown Cow",
+    "title": "",
+    "img": "brown-cow.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger"
+    ],
+    "ingredients": [
+      "2 oz milk",
+      "1 oz Kahlua"
+    ],
+    "directions": [
+      "Fill glass about 3/4 with ice",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Strain into glass and enjoy!"
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "White Russian",
+    "img": "white-russian-full.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 oz cream",
+      "1 oz Kahlua",
+      "2 oz vodka"
+    ],
+    "directions": [
+      "Fill glass about 3/4 with ice",
+      "Add vodka and Kahlua and stir well",
+      "Slowly pour cream over back of the spoon to create the top layer",
+      "Give a gentle little stir to create a cloudy look and enjoy!"
+    ],
+    "notes": [
+      "Thoughts are that this drink fast followed the Black Russian around 1949 in Brussels, Belgium.",
+      "There is some contradictory beliefs that it actually came about 5 years later in Oakland, California."
+    ],
+    "category": "vodka"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Dominicana",
+    "title": "",
+    "img": "dominicana.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1.5 oz coffee liqueur",
+      "1.5 oz aged rum",
+      "Heavy cream"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liqueur and rum to mixing glass, add ice, stir until cold",
+      "Strain into glass, slowly add a layer of cream on top and enjoy!"
+    ],
+    "notes": [
+      "This beverage credit goes to Sasha Petraske of Milk & Honey fame.",
+      "Given the name, I'd lean toward using a Dominican rum."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Black Russian",
+    "img": "black-russian.webp",
+    "equipment": [
+      "Single rocks glass",
+      "Jigger"
+    ],
+    "ingredients": [
+      "1 oz Kahlua",
+      "2 oz vodka"
+    ],
+    "directions": [
+      "Fill glass about 1/2 with ice",
+      "Add vodka and Kahlua and stir well and enjoy!"
+    ],
+    "notes": [
+      "It is believed that this drink was founded in 1949 in Brussels, Belgium."
+    ],
+    "category": "vodka"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Ward 8",
+    "img": "ward-8.webp",
+    "equipment": [
+      "Coupe glass",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Jigger",
+      "Paring knife",
+      "Fruit juicer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      ".25 oz rich grenadine",
+      ".5 oz orange juice",
+      ".5 oz lemon juice",
+      "2 oz rye",
+      "2 Luxardo Maraschino Cherries"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add a wisp of cherry juice, garnish with 2 speared cherries and enjoy!"
+    ],
+    "notes": [
+      "This is believed to have been created in 1898 at the Locke-Ober Café in Boston.",
+      "It was crafted to celebrate the anticipated election victory of Martin M. Lomasney, who was running for a seat in the state legislature.",
+      "Apparently, Boston's Ward 8 was the district that consistently delivered Lomasney his winning margin."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Mojito",
+    "img": "mojito.webp",
+    "equipment": [
+      "Highball glass",
+      "Jigger",
+      "Bar spoon",
+      "Paring knife",
+      "Fruit juicer",
+      "Tall straw"
+    ],
+    "ingredients": [
+      "7 mint leaves and 1 sprig for garnish",
+      ".5 oz lime juice",
+      ".5 oz rich simple syrup",
+      "2 oz white rum",
+      "seltzer"
+    ],
+    "directions": [
+      "Slap mint leaves (if you believe in that) and drop in glass",
+      "Add lime juice, syrup, rum and ice until an inch or so from top of the glass, preferably crushed",
+      "Using a bar spoon, stir briefly and lift some mint up the glass a bit",
+      "Fill to the top of the glass with seltzer",
+      "Add straw, mint spring to garnish and enjoy!"
+    ],
+    "notes": [
+      "There's some great stories out there that Sir Francis Drake and crew pirated their way to the mojito origin, but there's no solid proof to back that up.",
+      "It's believe to have originated out of Cuba, and most likely, it was another mixture used for medicinal purposed, particularly to prevent scurvy.",
+      "It wasn't until the 1930s that the drink appeared in print and represented the fine drink we know and love today."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Queen's Park Swizzle",
+    "title": "",
+    "img": "queens-park-swizzle.webp",
+    "equipment": [
+      "Highball glass",
+      "Jigger",
+      "Bar spoon",
+      "Paring knife",
+      "Fruit juicer",
+      "Tall straw"
+    ],
+    "ingredients": [
+      "8-10 mint leaves and 1 sprig for garnish",
+      "1 oz lime juice",
+      ".75 oz rich simple syrup",
+      "2 oz white rum",
+      "5 dashes Angostura bitters"
+    ],
+    "directions": [
+      "Slap mint leaves (if you believe in that) and drop in glass",
+      "Add lime juice, syrup, rum and ice until an inch or so from top of the glass, preferably crushed",
+      "Using a bar spoon, stir briefly and lift some mint up the glass a bit",
+      "Fill to the top of the glass with seltzer",
+      "Add straw, mint spring to garnish and enjoy!"
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 3,
+    "title": "Bamboo",
+    "img": "bamboo.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "2 dashes Angostura bitters",
+      "1 dash orange bitters",
+      "1.5 oz dry vermouth",
+      "1.5 oz dry sherry",
+      "Orange twist to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to mixing glass, add ice, stir until cold",
+      "Strain into glass, add twist and enjoy!"
+    ],
+    "notes": [
+      "Created in the 1800s by a German bartender, from California working in Japan."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Adonis",
+    "title": "",
+    "img": "adonis.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "2 dashes orange bitters",
+      "1 oz sweet vermouth",
+      "2 oz dry sherry",
+      "Orange twist to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to mixing glass, add ice, stir until cold",
+      "Strain into glass, add twist and enjoy!"
+    ],
+    "notes": [
+      "This was named after a very succesful Broadway show in the mid 1880s."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Toasted Almond",
+    "img": "toasted-almond.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Grater"
+    ],
+    "ingredients": [
+      "2 oz amaretto",
+      "2 oz coffee liqueur",
+      "1 oz heavy cream or 1.5 oz half and half",
+      "Nutmeg"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, top with freshly grated nutmeg and enjoy!"
+    ],
+    "notes": [
+      "Couldn't find much with the history of this outside of that it most likely emerged in the 1970s-1980s as creamy drinks gained popularity."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Roasted Toasted Almond",
+    "img": "roasted-toasted-almond-full.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Grater"
+    ],
+    "ingredients": [
+      "1.5 oz amaretto",
+      "1.5 oz coffee liqueur",
+      "1.5 oz vodka",
+      "1 oz heavy cream or 1.5 oz half and half",
+      "Nutmeg"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, top with freshly grated nutmeg and enjoy!"
+    ],
+    "notes": [
+      "Couldn't find much with the history of this outside of that it most likely emerged in the 1970s-1980s as creamy drinks gained popularity."
+    ],
+    "category": "vodka"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Burnt Toasted Almond",
+    "img": "burnt-toasted-almond.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Grater"
+    ],
+    "ingredients": [
+      "1.5 oz amaretto",
+      "1 oz coffee liqueur",
+      "1 oz creme de cacao",
+      "1.5 oz vodka",
+      "1 oz heavy cream or 1.5 oz half and half",
+      "Nutmeg"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, top with freshly grated nutmeg and enjoy!"
+    ],
+    "notes": [
+      "Couldn't find much with the history of this outside of that it most likely emerged in the 1970s-1980s as creamy drinks gained popularity."
+    ],
+    "category": "vodka"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Margarita",
+    "img": "margarita.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Paring knife",
+      "Fruit juicer",
+      "Small plate"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      ".75 oz triple sec",
+      "2 oz blanco tequila",
+      "kosher salt",
+      "lime wheel garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add some salt to a small plate, rub lime around the outside of the glass and roll across the salt",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker a quarter of the way with ice, roll in the liquids and shake til cold",
+      "Pour everything into the glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "There are several who have laid claim to this drink's beginnings, but none have been confirmed as the first, but it probably goes back to the 1930s.",
+      "You can consider only rimming part of the glass to choose whether to get a salty sip or not."
+    ],
+    "category": "tequilaMezcal"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "temptitle": "Tommy's Margarita",
+    "title": "",
+    "img": "tommy-margarita.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Paring knife",
+      "Fruit juicer",
+      "Small plate"
+    ],
+    "ingredients": [
+      ".5 oz agave syrup",
+      "1 oz lime juice",
+      "2 oz reposado tequila",
+      "lime wheel garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add some salt to a small plate, rub lime around the outside of the glass and roll across the salt",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker a quarter of the way with ice, roll in the liquids and shake til cold",
+      "Pour everything into the glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "Julio Bermejo created this drink while he was working at Tommy's Mexican Restaurant in San Francisco in 1990."
+    ],
+    "category": "tequilaMezcal"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Negroni",
+    "img": "negroni.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 oz sweet vermouth",
+      "1 oz Campari",
+      "1 oz gin",
+      "Orange twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to mixing glass, add ice, stir until cold",
+      "Put a large ice cube in the glass and strain in liquids",
+      "Add twist and enjoy!"
+    ],
+    "notes": [
+      "This drink originated in Florence, Italy, when Count Camillo Negroni asked for an Americano, but suped up with gin."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "White Negroni",
+    "title": "",
+    "img": "white-negroni.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 oz Lillet Blanc",
+      "1 oz Suze",
+      "1 oz gin",
+      "Grapefruit twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to mixing glass, add ice, stir until cold",
+      "Put a large ice cube in the glass and strain in liquids",
+      "Add twist and enjoy!"
+    ],
+    "notes": [
+      "The Lillet can be subbed out for white vermouth. Most any gin should work nicely in this.",
+      "The cocktail was Originated by London barman, Wayne Collins in 2001.",
+      "Story goes, he was at an event in France with a Plymouth gin rep to make a Negroni, but with French ingredients. Thus, he subbed in Suze and a new drink came to fruition.",
+      "It didn't become big until NY bartender Audrey Saunders put it on the menu at the Pegu Club in 2005. At the time, Suze was not imported to the US, so Saunders has to smuggle it in for a time."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Negroni Sbagliato",
+    "img": "negroni-sbagliato.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 oz sweet vermouth",
+      "1 oz Campari",
+      "~4 oz sparkling wine",
+      "Orange twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add a large ice cube to glass, pour in vermouth and Campari and stir until cold",
+      "Top off slowly with sparkling wine, stir lightly, add twist and enjoy!"
+    ],
+    "notes": [
+      "The Negroni Sbagliato, meaning 'mistaken Negroni' in Italian, is said to have originated in 1972 at Bar Basso in Milan, Italy.",
+      "It's said that bartender Mirko Stocchetto accidentally swapped gin for prosecco while making a classic Negroni, and the resulting drink was quite tasty."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "The Pink Lady",
+    "title": "",
+    "img": "the-pink-lady.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Garnish skewer"
+    ],
+    "ingredients": [
+      ".5 oz rich grenadine",
+      ".75 oz lemon juice",
+      ".5 oz Applejack",
+      "1.5 oz gin",
+      "1 egg white",
+      "1 Luxardo Maraschino Cherry"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Roll in liquids and dry shake (no ice) vigorously",
+      "Add ice and shake again til cold",
+      "Double strain into the glass, add skewered cherry and enjoy!"
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "The Professional",
+    "img": "the-professional.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 oz Campari",
+      "1.5 oz bourbon",
+      ".5 oz overproof Jamaican rum",
+      "Orange twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to glass, add ice, stir until cold",
+      "Add twist and enjoy!"
+    ],
+    "notes": [
+      "Credited to Benjamin Schwartz, Little Branch bar, NYC in 2010."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Rosita",
+    "img": "rosita.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      ".5 oz sweet vermouth",
+      ".5 oz dry vermouth",
+      ".5 oz Campari",
+      "1.5 oz reposado tequila",
+      "1 dash of Angostura bitters"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to mixing glass, add ice, stir until cold",
+      "Put a large ice cube in the glass, strain in liquids and enjoy!"
+    ],
+    "notes": [
+      "This cocktail has since been traced back to at 1974 edition of the Mr. Boston Official Bartender's Guide."
+    ],
+    "category": "tequilaMezcal"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Boulevardier",
+    "img": "boulevardier.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 oz sweet vermouth",
+      "1 oz Campari",
+      "2 oz bourbon",
+      "Orange twist or cherry to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to mixing glass, add ice, stir until cold",
+      "Put a large ice cube in the glass and strain in liquids",
+      "Add garnish and enjoy!"
+    ],
+    "notes": [
+      "While bourbon seems to be the default whiskey, research shows rye is also an acceptable option.",
+      "This first hits print in 1927 in Harry MacElhone's Barflies and Cocktails as an add-on giving credit to Erskinne Gwynne.",
+      "The original recipe called for equal parts, but feel free to double the bourbon for a solid balance."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Jasmine",
+    "img": "jasmine.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      ".25 oz triple sec",
+      ".25 oz Campari",
+      "1.5 oz gin",
+      "Lemon twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "Credit for this goes to bartender Paul Harrington at the Townhouse in Emeryville, CA in 1990.",
+      "It was named after his buddy, last name Jasmin, who asked for something new.",
+      "This is ultimately, a riff on the Pegu Club cocktail."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Enzoni",
+    "title": "",
+    "img": "enzoni.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Muddles",
+      "Fine strainer",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      "5 green grapes",
+      ".5 oz rich simple syrup",
+      ".75 oz lemon juice",
+      "1 oz Campari",
+      "1 oz gin",
+      "1 large ice cube",
+      "1 more grape to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Put grapes into the short shaker tin and muddle",
+      "Pour in rest of the ingredients",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "Credit for this drink typically goes to Vincenzo Errico while at the NYC bar, Milk & Honey.",
+      "However, there is a belief that Errico came up with it a little sooner, while tending bar at London's Match."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Army & Navy",
+    "title": "",
+    "img": "army-navy.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Fruit juicer",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      "2 dashes Angostura bitters",
+      ".75 oz lemon juice",
+      ".75 oz orgeat",
+      "2 oz gin",
+      "Lemon twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add twist and enjoy!"
+    ],
+    "notes": [
+      "This was first published in David A. Embry's How To Mix Drinks in 1948."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Sunflower",
+    "img": "sunflower.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      ".75 oz elderflower liqueur",
+      ".75 oz triple sec",
+      ".75 oz gin",
+      "Absinthe spritz",
+      "Lemon twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Spritz or wash the glass with absinthe",
+      "Double strain into glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "This is a creation by Sam Ross, NYC Milk & Honey alum."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Old Pal",
+    "img": "old-pal.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 oz dry vermouth",
+      "1 oz Campari",
+      "1 oz rye",
+      "Lemon or orange twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to mixing glass, add ice, stir until cold",
+      "Strain into glass, add twist and enjoy!"
+    ],
+    "notes": [
+      "The suspected original whiskey used was Canadian Club rye ... sorry, I didn't have any on hand :)",
+      "Credit here goes to a man once known as \"Sparrow\" Robertson, sporting editor of the New York Herald, Paris.",
+      "The recipe originally made it to print as an addendum in Harry MacElhone's Barflies and Cocktails."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Old Friend",
+    "img": "old-friend.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".75 oz grapefruit juice",
+      ".25 oz elderflower liqueur",
+      ".5 oz Campari",
+      "1.5 oz gin",
+      "Lemon twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "The Old Friend cocktail is a modern variation of the classic Old Pal.",
+      "The origin story of this cocktail appears to be debated and possibly, officially, unknown."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Americano",
+    "img": "americano.webp",
+    "equipment": [
+      "Highball glass",
+      "Jigger",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 oz Campari",
+      "1 oz sweet vermouth",
+      "seltzer",
+      "Orange twist"
+    ],
+    "directions": [
+      "Add Campari and vermouth to the glass",
+      "Fill will ice, seltzer and stir",
+      "Add orange twist and enjoy!"
+    ],
+    "notes": [
+      "This beverage originated out of Milan, Italy in the 1860s by Gaspare Campari.",
+      "It was originally named Milano-Torino after it's main ingredients.",
+      "Belief is that it changed names due to its popularity with American ex-pats some of who brought it back to the States around prohibition using a medicinal loophole.",
+      "This beverage is the precurser to the hugely popular cocktail, the Negroni.",
+      "The Americano was the first ever James Bond drink order, in the first novel, Casino Royale."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Gin and Tonic",
+    "img": "gin-and-tonic.webp",
+    "equipment": [
+      "Highball glass",
+      "Jigger",
+      "Paring knife"
+    ],
+    "ingredients": [
+      "approx 4 oz tonic water",
+      "2 oz gin",
+      "lime wedge"
+    ],
+    "directions": [
+      "Stack ice in glass add gin and fill with tonic",
+      "Squeeze in some lime, add wedge to edge of glass and enjoy!"
+    ],
+    "notes": [
+      "British soldiers drank quinine heavy tonic to combat maleria, specifically in India.",
+      "The men would then add their daily ration of gin to this to make it more palatable and enjoyable",
+      "It gained traction in The States in the 1930s as tonic companies marketed it at the Chicago and NY World's Fair."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Gin Rickey",
+    "title": "",
+    "img": "gin-rickey.webp",
+    "equipment": [
+      "Highball glass",
+      "Jigger",
+      "Paring knife"
+    ],
+    "ingredients": [
+      "lime juice",
+      "seltzer",
+      "2 oz gin"
+    ],
+    "directions": [
+      "Stack ice in glass add gin and fill with tonic",
+      "Squeeze in some lime, add wedge to edge of glass and enjoy!"
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Gin Fix",
+    "title": "",
+    "img": "gin-fix.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Lewis bag and mallet",
+      "Fruit juicer",
+      "Paring knife",
+      "Straw"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      ".5 oz rich simple syrup",
+      "2 oz gin",
+      "Lemon wheel"
+    ],
+    "directions": [
+      "Chill glass",
+      "Fill bag with ice and crush it",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Strain liquids into the glass, top with crushed ice, add straw and enjoy!"
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Last Word",
+    "img": "last-word.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Fruit juicer",
+      "Paring knife"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      ".75 oz maraschino",
+      ".75 oz green Chartreuse",
+      ".75 oz gin",
+      "1 Maraschino Cherry to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Drop cherry in bottom of the glass, double strain in liquids and enjoy!"
+    ],
+    "notes": [
+      "This beverage was created at the Detroit Athletic Club in the early 1920's.",
+      "It was a big hit with Vaudville performer Frank Fogerty (also known as The Dublin Minstrel) and he spread the word."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Final Ward",
+    "img": "final-ward.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Fruit juicer",
+      "Paring knife"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      ".75 oz maraschino",
+      ".75 oz green Chartreuse",
+      ".75 oz rye",
+      "1 Maraschino Cherry to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Drop cherry in the bottom of the glass, double strain in liquids and enjoy!"
+    ],
+    "notes": [
+      "Drink created by Phil Ward at Death & Company, NYC in 2007.",
+      "This is a riff on the classic cocktail, the Last Word."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Bronx",
+    "img": "bronx.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      ".5 oz dry vermouth",
+      ".5 oz sweet vermouth",
+      "1 oz orange juice",
+      "2 oz gin"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, top with freshly grated nutmeg and enjoy!"
+    ],
+    "notes": [
+      "This cocktail appears to date back to the early 1900s and appeared in print twice in 1908.",
+      "Credit here is in question as typically, 2 names are thrown around.",
+      "One version says Bronx barman Joseph S. Sormani discovered it while in Philadelphia.",
+      "Another says that Johnnie Solan was challenged to make a new drink, varied the Duplex cocktail and named it after a recent visit to the newly openend Bronx Zoo."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Brooklyn",
+    "img": "brooklyn.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".25 oz Amaro Ramazzotti",
+      ".25 oz maraschino liqueur",
+      "1 oz dry vermouth",
+      "2 oz rye",
+      "2 dashes orange bitters",
+      "1 Luxardo Maraschino Cherry"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to mixing glass, add ice, stir until cold",
+      "Strain into glass, add cherry and enjoy!"
+    ],
+    "notes": [
+      "Traditionally this is made with Amer Picon, but that is not readily available nor made with the original recipe",
+      "By the early 1900s, the Manhattan and Bronx cocktails were well established and several bartenders were vying for a Brooklyn recipe.",
+      "It was first printed in Jacob A. Grohusko's Jack's Manual published in 1908.",
+      "Grohusko was the head bartender at Baracca's Restaurant in Wall Street, and honored his Brooklynite boss with this drink."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "A La Louisiane",
+    "img": "a-la-louisiane.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      "3 dashes of absinthe",
+      "3 dashes of Peychaud's bitters",
+      ".75 oz sweet vermouth",
+      ".75 oz Benedictine",
+      "2 oz rye",
+      "1 Luxardo Maraschino Cherry"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to mixing glass, add ice, stir until cold",
+      "Strain into glass, add cherry and enjoy!"
+    ],
+    "notes": [
+      "Also known as the La Louisiane or the De La Louisiane.",
+      "This was the house drink at the De La Louisiane Creole restaurant in New Orleans.",
+      "It was suspected to originate in the late 1800s or early 1900s."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Espresso Martini",
+    "img": "espresso-martini.webp",
+    "equipment": [
+      "Martini glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      "1 oz espresso",
+      ".5 oz rich simple syrup",
+      ".5 oz coffee liqueur",
+      "1.5 oz vodka",
+      "3 coffee beans to garnish"
+    ],
+    "directions": [
+      "Pour liquids into shaker and shake",
+      "Double strain into a chilled martini glass, add 3 coffee beans and enjoy!"
+    ],
+    "notes": [
+      "You need to go back to 1983 London to find the origin of this cocktail.",
+      "The story is that a young - soon to be famous - model entered Dick Bradsell's bar and ask for a drink that would wake her up and also !@#$ her up.",
+      "The three bean garnish is a nod to Italian Sambuca and represent health, wealth and happiness."
+    ],
+    "category": "vodka"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Martini",
+    "img": "martini.webp",
+    "equipment": [
+      "Martini glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 oz dry vermouth",
+      "2.5 oz gin",
+      "3 olives to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour liquids into a mixing glass, add ice and stir for a good chill",
+      "Strain into the chilled glass, add lanced olives and enjoy!"
+    ],
+    "notes": [
+      "The martini goes back to the 1800s with no truly known origin.",
+      "It is generally believed that this drink evolved from another gin/vermouth cocktail, the Martinez.",
+      "Harry Johnson's 1888 book has the Martini as 2 or 3 dashes of gum syrup, 2 or 3 dashes of Boker's bitters, 1 dash curacao, and 1:1 of Old Tom gin and vermouth with a lemon peel",
+      "The 1912 Hoffman House Bartender's Guide shows a 1:1 vermouth to gin ratio with orange bitters and lemon twist."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Wet Martini",
+    "img": "wet-martini.webp",
+    "equipment": [
+      "Martini glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1.5 oz dry vermouth",
+      "2.5 oz gin",
+      "3 olives to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour liquids into a mixing glass, add ice and stir for a good chill",
+      "Strain into the chilled glass, add lanced olives and enjoy!"
+    ],
+    "notes": [
+      "The martini goes back to the 1800s with no truly known origin.",
+      "It is generally believed that this drink evolved from another gin/vermouth cocktail, the Martinez.",
+      "Harry Johnson's 1888 book has the Martini as 2 or 3 dashes of gum syrup, 2 or 3 dashes of Boker's bitters, 1 dash curacao, and 1:1 of Old Tom gin and vermouth with a lemon peel",
+      "The 1912 Hoffman House Bartender's Guide shows a 1:1 vermouth to gin ratio with orange bitters and lemon twist."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "50/50 Martini",
+    "img": "5050-martini.webp",
+    "equipment": [
+      "Martini glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "2-3 dashes of Angostura or Peychaud's bitters",
+      "2-3 dashes of rich simple syrup",
+      "1 dash of curacao",
+      "1.5 oz dry vermouth",
+      "1.5 oz gin",
+      "Lemon twist to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour liquids into a mixing glass, add ice and stir for a good chill",
+      "Strain into the chilled glass, add twist and enjoy!"
+    ],
+    "notes": [
+      "The martini goes back to the 1800s with no truly known origin.",
+      "It is generally believed that this drink evolved from another gin/vermouth cocktail, the Martinez.",
+      "Harry Johnson's 1888 book has the Martini as 2 or 3 dashes of gum syrup, 2 or 3 dashes of Boker's bitters, 1 dash curacao, and 1:1 of Old Tom gin and vermouth with a lemon peel",
+      "The 1912 Hoffman House Bartender's Guide shows a 1:1 vermouth to gin ratio with orange bitters and lemon twist."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Dry Martini",
+    "img": "dry-martini.webp",
+    "equipment": [
+      "Martini glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      ".5 oz dry vermouth",
+      "2.5 oz gin",
+      "3 olives to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour liquids into a mixing glass, add ice and stir for a good chill",
+      "Strain into the chilled glass, add lanced olives and enjoy!"
+    ],
+    "notes": [
+      "The martini goes back to the 1800s with no truly known origin.",
+      "It is generally believed that this drink evolved from another gin/vermouth cocktail, the Martinez.",
+      "Harry Johnson's 1888 book has the Martini as 2 or 3 dashes of gum syrup, 2 or 3 dashes of Boker's bitters, 1 dash curacao, and 1:1 of Old Tom gin and vermouth with a lemon peel",
+      "The 1912 Hoffman House Bartender's Guide shows a 1:1 vermouth to gin ratio with orange bitters and lemon twist."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Perfect Martini",
+    "img": "perfect-martini.webp",
+    "equipment": [
+      "Martini glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      ".5 oz dry vermouth",
+      ".5 oz sweet vermouth",
+      "2.5 oz gin",
+      "3 olives to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour liquids into a mixing glass, add ice and stir for a good chill",
+      "Strain into the chilled glass, add lanced olives and enjoy!"
+    ],
+    "notes": [
+      "The martini goes back to the 1800s with no truly known origin.",
+      "It is generally believed that this drink evolved from another gin/vermouth cocktail, the Martinez.",
+      "Harry Johnson's 1888 book has the Martini as 2 or 3 dashes of gum syrup, 2 or 3 dashes of Boker's bitters, 1 dash curacao, and 1:1 of Old Tom gin and vermouth with a lemon peel",
+      "The 1912 Hoffman House Bartender's Guide shows a 1:1 vermouth to gin ratio with orange bitters and lemon twist."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Millionaire's Martini",
+    "img": "millionaires-martini.webp",
+    "equipment": [
+      "Martini glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1.5 oz dry vermouth",
+      "1.5 oz gin",
+      ".75 oz sparkling wine",
+      "lemon twist to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour liquids into a mixing glass, add ice and stir for a good chill",
+      "Strain into the chilled glass, top with sparkling wine, add garnish and enjoy!"
+    ],
+    "notes": [
+      "The martini goes back to the 1800s with no truly known origin.",
+      "It is generally believed that this drink evolved from another gin/vermouth cocktail, the Martinez.",
+      "Harry Johnson's 1888 book has the Martini as 2 or 3 dashes of gum syrup, 2 or 3 dashes of Boker's bitters, 1 dash curacao, and 1:1 of Old Tom gin and vermouth with a lemon peel",
+      "The 1912 Hoffman House Bartender's Guide shows a 1:1 vermouth to gin ratio with orange bitters and lemon twist.",
+      "I'm not 100% sure of the origin of this, but most online references point to folks at London's Sipsmith Distillery."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Sweet Martini",
+    "img": "sweet-martini.webp",
+    "equipment": [
+      "Martini glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "2 oz sweet vermouth",
+      "1 oz gin",
+      "1 Luxardo Maraschino Cherry"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour liquids into a mixing glass, add ice and stir for a good chill",
+      "Strain into the chilled glass, add cherry and enjoy!"
+    ],
+    "notes": [
+      "Credit here goes to Harry MacElhone in his 1922 book, Harry's ABC of Mixing Cocktails.",
+      "The published version specifically called for Plymouth gin.",
+      "The martini goes back to the 1800s with no truly known origin.",
+      "It is generally believed that this drink evolved from another gin/vermouth cocktail, the Martinez.",
+      "Harry Johnson's 1888 book has the Martini as 2 or 3 dashes of gum syrup, 2 or 3 dashes of Boker's bitters, 1 dash curacao, and 1:1 of Old Tom gin and vermouth with a lemon peel",
+      "The 1912 Hoffman House Bartender's Guide shows a 1:1 vermouth to gin ratio with orange bitters and lemon twist."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Medium Martini",
+    "img": "medium-martini.webp",
+    "equipment": [
+      "Martini glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 oz dry vermouth",
+      "1 oz sweet vermouth",
+      "1 oz gin"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour liquids into a mixing glass, add ice and stir for a good chill",
+      "Strain into the chilled glass and enjoy!"
+    ],
+    "notes": [
+      "Credit here goes to Harry MacElhone in his 1922 book, Harry's ABC of Mixing Cocktails.",
+      "The published version specifically called for Plymouth gin.",
+      "The martini goes back to the 1800s with no truly known origin.",
+      "It is generally believed that this drink evolved from another gin/vermouth cocktail, the Martinez.",
+      "Harry Johnson's 1888 book has the Martini as 2 or 3 dashes of gum syrup, 2 or 3 dashes of Boker's bitters, 1 dash curacao, and 1:1 of Old Tom gin and vermouth with a lemon peel",
+      "The 1912 Hoffman House Bartender's Guide shows a 1:1 vermouth to gin ratio with orange bitters and lemon twist."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Dirty Martini",
+    "title": "",
+    "img": "martini.webp",
+    "equipment": [
+      "Martini glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 oz dry vermouth",
+      ".5 oz olive brine",
+      "2.5 oz gin",
+      "3 olives to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour liquids into a mixing glass, add ice and stir for a good chill",
+      "Strain into the chilled glass, add lanced olives and enjoy!"
+    ],
+    "notes": [
+      "The martini goes back to the 1800s with no truly known origin.",
+      "It is generally believed that this drink evolved from another gin/vermouth cocktail, the Martinez.",
+      "Harry Johnson's 1888 book has the Martini as 2 or 3 dashes of gum syrup, 2 or 3 dashes of Boker's bitters, 1 dash curacao, and 1:1 of Old Tom gin and vermouth with a lemon peel",
+      "The 1912 Hoffman House Bartender's Guide shows a 1:1 vermouth to gin ratio with orange bitters and lemon twist."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Vesper Martini",
+    "img": "vesper-martini-full.webp",
+    "equipment": [
+      "Martini glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      ".5 Cocchi Americano",
+      ".75 oz vodka",
+      "2.25 oz London dry gin",
+      "Lemon twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour liquids into a mixing glass, add ice and stir for a good chill",
+      "Strain into the chilled glass add lemon twist and enjoy!"
+    ],
+    "notes": [
+      "1953 novel and 2006 movie Casino Royale",
+      "The drink is named after Vesper Lynd, a double agent and love interest of Bond's.",
+      "The original recipe called for the now defunct Kina Lillet.",
+      "I've read that the company claims their modern Lillet Blanc is the same recipe.",
+      "Some bartenders disagree and suggest Cocchi Americano is closer to the original flavor profile.",
+      "The martini goes back to the 1800s with no truly known origin.",
+      "It is generally believed that this drink evolved from another gin/vermouth cocktail, the Martinez.",
+      "Harry Johnson's 1888 book has the Martini as 2 or 3 dashes of gum syrup, 2 or 3 dashes of Boker's bitters, 1 dash curacao, and 1:1 of Old Tom gin and vermouth with a lemon peel",
+      "The 1912 Hoffman House Bartender's Guide shows a 1:1 vermouth to gin ratio with orange bitters and lemon twist."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "French 75",
+    "img": "french-75.webp",
+    "equipment": [
+      "Collins glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fruit juicer",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".5 oz rich simple syrup",
+      ".75 oz lemon juice",
+      "1.5 oz gin",
+      "3 oz sparkling wine",
+      "Lemon twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients, sans wine, into short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "With everything in large shaker, add wine",
+      "Fill glass with ice, strain in liquids, add lemon twist and enjoy!"
+    ],
+    "notes": [
+      "Cognac is an acceptable classic substitute for gin",
+      "This drink is named after a classic French artillery cannon"
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Lucien Gaudin",
+    "img": "lucien-gaudin.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      ".5 oz dry vermouth",
+      ".5 oz triple sec",
+      ".5 oz Campari",
+      "1 oz gin",
+      "Orange twist to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to mixing glass, add ice, stir until cold",
+      "Strain in liquids, add garnish and enjoy!"
+    ],
+    "notes": [
+      "Lucien Gaudin was a French fencer who participated in the Olympic Games in 1920, 1924, and 1928.",
+      "His prowess earned him a total of six medals in the games, including two silver and four gold.",
+      "The drink is credited to just Charlie, who worked at the Le Cheval Pie restaurant in Paris."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Star",
+    "title": "",
+    "img": "star.webp",
+    "equipment": [
+      "Cordial glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 oz sweet vermouth",
+      "1 oz Applejack",
+      "2 dashes Angostura bitters"
+    ],
+    "directions": [
+      "Chill glass",
+      "Fill mixing glass with some ice",
+      "Add ingredients and stir until very cold",
+      "Strain into the glass and enjoy!"
+    ],
+    "notes": [
+      "This is thought to have been created by a bartender at the Manhattan Club in NYC around 1870."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Corpse Reviver No.1",
+    "img": "corpse-reviver-1.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      ".75 oz sweet vermouth",
+      ".75 oz Applejack",
+      "1.5 oz cognac",
+      "1 dash orange bitters"
+    ],
+    "directions": [
+      "Chill glass",
+      "Fill mixing glass with some ice",
+      "Add ingredients and stir until very cold",
+      "Strain into the glass and enjoy!"
+    ],
+    "notes": [
+      "As with it's No 2 relative, this drink comes from Harry Craddock's 1930 The Savoy Cocktail Book.",
+      "The name Corpse Reviver goes back several decades prior, but this is the version that stood the test of time."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Corpse Reviver No.2",
+    "img": "corpse-reviver-2.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "Absinthe spritz",
+      ".75 oz lemon juice",
+      ".75 oz Cocchi Americano",
+      ".75 oz triple sec",
+      ".75 oz London dry gin",
+      "Lemon twist garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Spritz glass with absinthe",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass, add lemon twist and enjoy!"
+    ],
+    "notes": [
+      "As with it's No 1 predecessor, barely, this drink comes from Harry Craddock's 1930 The Savoy Cocktail Book.",
+      "Unlike most Hollywood sequels, this No 2 has remained significantly more popular than the No 1 over the years."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Bijou",
+    "img": "bijou.webp",
+    "equipment": [
+      "Up glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 oz sweet vermouth",
+      "1 oz green Chartreuse",
+      "1 oz gin",
+      "2 dashes of orange bitters",
+      "1 Luxardo Maraschino Cherry"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into mixing glass and stir for a good chill",
+      "Strain into glass, add cherry and enjoy!"
+    ],
+    "notes": [
+      "Bijou is French for Jewel, which the liquor colors are supposed to represent.",
+      "This recipe can be found in Harry Johnston's New and Improved Bartenders Manual of 1900."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Tailspin",
+    "title": "",
+    "img": "tailspin.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "Campari wash",
+      "1 oz sweet vermouth",
+      "1 oz green Chartreuse",
+      "1.5 oz gin",
+      "1 dash of orange bitters",
+      "Lemon twist to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into mixing glass and stir for a good chill",
+      "Pour or spritz a tiny amount of Campari to coat inside of the glass",
+      "Strain into glass, add twist and enjoy!"
+    ],
+    "notes": [
+      "The origin appears to come from modern mixes via Death & Co.",
+      "This is not to be confused with the very different Prohibition Era Tail Spin."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Martinez",
+    "img": "martinez.webp",
+    "equipment": [
+      "Martini glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 barspoon Maraschino liqueur",
+      "1.5 oz sweet vermouth",
+      "1.5 oz Old Tom gin",
+      "2 dashes of orange bitters",
+      "orange twist"
+    ],
+    "directions": [
+      "Put ice and water in martini glass to chill",
+      "Pour ingredients into mixing glass and stir for a good chill",
+      "Dump martini glass",
+      "Strain into glass, add twist if desired and enjoy!"
+    ],
+    "notes": [
+      "The origin here is unknown, but it's often thought that the Martinez is a decendant of the Manhattan and precursor of the Martini.",
+      "It first hit print in 1884's The Modern Bartender's Guide and then again in 1997's Jerry Thomas Bartenders Guide, with different styles of gin."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Martinez #2",
+    "img": "martinez-no2.webp",
+    "equipment": [
+      "Up glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      ".75 oz sweet vermouth",
+      ".25 oz Curacao",
+      "2 oz Genever",
+      "1 Luxardo Maraschino Cherry"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to mixing glass, add ice, stir until cold",
+      "Strain into glass, add cherry and enjoy!"
+    ],
+    "notes": [
+      "This is just a variation on the Martinez and I'm using this unofficial name as per where I found it on YouTube."
+    ],
+    "category": "genever"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Gin Daisy",
+    "title": "",
+    "img": "gin-daisy.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      ".75 oz orange curacao",
+      "1.5 oz gin",
+      "2 barspoons seltzer",
+      "lemon twist to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients, sans seltzer, into short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass, add seltzer, lemon twist and enjoy!"
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Pegu Club",
+    "img": "pegu-club.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      ".75 oz orange curacao",
+      "1.5 oz gin",
+      "2 dashes Angostura bitters"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients, sans seltzer, into short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass and enjoy!"
+    ],
+    "notes": [
+      "This drink dates back to the 1920s at the Pegu Club in British-colonial Burma (now Myanmar)."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Star Daisy",
+    "title": "",
+    "img": "star-daisy.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Fruit juicer",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      ".75 oz orange curacao",
+      ".25 oz rich simple syrup",
+      ".75 oz Applejack",
+      ".75 oz gin",
+      "lemon twist to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass, add lemon twist and enjoy!"
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Gin Sour",
+    "title": "",
+    "img": "gin-sour.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      "2 oz gin",
+      ".5 oz rich simple syrup",
+      "1 oz lemon juice",
+      "1 egg white",
+      "4 dashes Peychaud's bitters"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients, sans bitters, into short shaker tin and dry (no ice) shake",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass, add bitters and enjoy!"
+    ],
+    "notes": [
+      "This is the first sour style cocktail (along with brandy and rum) to make print, specifically in Jerry Thomas's 1862 The Bartender's Guide.",
+      "While not in the original recipe, It estimated that the egg white addition came two or three decades later."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Gimlet",
+    "img": "gimlet.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      ".75 oz simple",
+      "2 oz gin",
+      "Lime wheel garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "This drink dates back to the 1950s, and was heavily marketed as a medicinal treatment plan.",
+      "The general makeup goes back to the Royal Navy as a treatment to add vitamin C and avoid scurvy."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Sugar Plum",
+    "img": "sugar-plum.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      "1 oz grapefruit juice",
+      ".5 oz grenadine syrup",
+      "2 oz gin"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass and enjoy!"
+    ],
+    "notes": [
+      "This drink is credited to NYC Milk & Honey alum, Joseph Schwartz."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Blinker",
+    "img": "blinker.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      ".5 oz rich grenadine syrup",
+      "1 oz grapefruit juice",
+      "2 oz rye whiskey"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass and enjoy!"
+    ],
+    "notes": [
+      "This is a Prohibition Era cocktail, first found in The Official Mixers Manual by Patrick Gavin Duffy in 1934."
+    ],
+    "category": "rye"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Bee's Knees",
+    "img": "bees-knees.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      ".75 oz honey syrup",
+      "2 oz gin",
+      "Lemon twist to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "This is a Prohibition era cocktail. Origin details are fuzzy at best."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Monkey Gland",
+    "img": "monkey-gland.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".5 oz rich grenadine",
+      "1 oz orange juice",
+      "2 oz gin",
+      "Absinthe spritz",
+      "Orange twist to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Spritz empty glass with absinthe",
+      "Double strain into the glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "This is a Prohibition era cocktail, coming out of Paris, France.",
+      "Two bartenders claimed to have created this. No one truly knows who was first.",
+      "It is named after the idea that grafting monkey testicle tissue into humans would increase vitality, thanks to French/Russian doctor Serge Voronoff.",
+      "I'm serious. Google him. His life story is ... interesting!"
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Boston Sour",
+    "img": "boston-sour.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      "1 egg white",
+      "4 dashes orange bitters",
+      ".5 oz rich demerara syrup",
+      "1 oz lemon juice",
+      "2 oz bourbon"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin and dry (no ice) shake",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass and enjoy!"
+    ],
+    "notes": [
+      "The Whiskey Sour is thought to be a fast follow to the first ones to make print, specifically in Jerry Thomas's 1862 The Bartender's Guide.",
+      "While not in the original recipe, It estimated that the egg white addition came two or three decades later."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Rusty Nail",
+    "img": "rusty-nail.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Stirrer"
+    ],
+    "ingredients": [
+      "1 oz Drambuie",
+      "2 oz blended scotch"
+    ],
+    "directions": [
+      "Add a block of ice to the glass",
+      "Add liquids, stir until cold and enjoy!"
+    ],
+    "notes": [
+      "There are historical signs at a 1:1 ratio, but be warned, that's very sweet!",
+      "2:1 is still fairly sweet. Dial back the Drambuie for an even drier beverage",
+      "For a super cold drink, prep in a mixing glass."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Sentimental Gentleman",
+    "title": "",
+    "img": "sentimental-gentleman.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Stirrer"
+    ],
+    "ingredients": [
+      ".5 oz walnut liqueur",
+      ".5 oz Benedictine",
+      "2 oz blended scotch"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to the mixing glass and stir until cold",
+      "Add a block of ice to the glass",
+      "Strain into the glass and enjoy!"
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Irish Coffee",
+    "title": "",
+    "img": "irish-coffee.webp",
+    "equipment": [
+      "Coffee glass",
+      "Jigger",
+      "Boston shaker",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      ".25 oz rich demerara syrup",
+      "3~3.5 oz coffee",
+      "~3oz cream",
+      "1.5 oz Irish whiskey"
+    ],
+    "directions": [
+      "Add whiskey, syrup and juice into shaker shake for 5-10 seconds",
+      "Double strain into the glass, add bitters and enjoy!"
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Remember The Maine",
+    "img": "remember-the-maine.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".75 oz sweet vermouth",
+      ".25 oz cherry liqueur",
+      "2 oz rye",
+      "Absinthe spritz",
+      "1 Luxardo Maraschino Cherry"
+    ],
+    "directions": [
+      "Chill glass",
+      "Spritz glass with a very light coat of absinthe",
+      "Add liquids to the mixing glass and stir until cold",
+      "Strain into the glass, add twist and enjoy!"
+    ],
+    "notes": [
+      "On Feb 15, 1898, the USS Maine sank in the Havana Harbor, Cuba.",
+      "While Spain was blamed for the incident, there's never been any proof of it."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "The Tipperary",
+    "img": "tipperary.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".75 oz sweet vermouth",
+      ".5 oz green Chartreuse",
+      "2 oz pot still Irish whiskey",
+      "orange twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to the mixing glass and stir until cold",
+      "Strain into the glass, add twist and enjoy!"
+    ],
+    "notes": [
+      "This one first hit print in 1916, in Hugo Ensslin's Recipes for Mixed Drinks."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Irish Blonde",
+    "img": "irish-blonde.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      ".25 oz Fino sherry",
+      ".75 oz orange curacao",
+      "2 oz blended Irish whiskey",
+      "2 dashes orange bitters"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to the mixing glass and stir until cold",
+      "Strain into the glass, add bitters and enjoy!"
+    ],
+    "notes": [
+      "This beverage is credited to the famous King of Cocktails, Dale DeGroff."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Wild Eyed Rose",
+    "img": "wild-eyed-rose.webp",
+    "equipment": [
+      "Highball glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Paring knife",
+      "Fruit juicer",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".5 oz rich grenadine",
+      ".75 oz lime juice",
+      "2 oz Irish whiskey",
+      "2 oz seltzer",
+      "lime garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients, sans seltzer, into short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Fill glass with ice, strain in liquids, top with a little seltzer, add garnish and enjoy!"
+    ],
+    "notes": [
+      "This beverage was first published in 1917 by bartender Hugo R. Ensslin in his book Recipes for Mixed Drinks.",
+      "Its name is believed to be a nod to the popular song \"My Wild Irish Rose,\" reflecting its Irish whiskey base and its rosy hue."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Irish Antidote",
+    "title": "",
+    "img": "wild-eyed-rose.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      ".75 oz honey syrup",
+      "2 oz Irish whiskey",
+      "lemon garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Add 1 large ice cube to glass, strain in liquids, add garnish and enjoy!"
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Whiskey Sour",
+    "img": "whiskey-sour.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".5 oz rich demerara syrup",
+      "1 oz lemon juice",
+      "2 oz bourbon",
+      "4 dashes orange bitters"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass and enjoy!"
+    ],
+    "notes": [
+      "This is thought to be a fast follow to the first ones to make print, specifically in Jerry Thomas's 1862 The Bartender's Guide.",
+      "While not in the original recipe, It estimated that the egg white addition came two or three decades later."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Scofflaw",
+    "img": "scofflaw.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".25 oz rich grenadine",
+      ".75 oz lemon juice",
+      ".75 oz dry vermouth",
+      "1.5 oz rye whiskey",
+      "2 dashes of orange bitters",
+      "Lemon twist garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass, add bitters, lemon twist and enjoy!"
+    ],
+    "notes": [
+      "In 1923, wealthy Massachusetts Prohibitionist Delcevare King, sponsored a contest to create a word that meant \"a lawless drinker.\"",
+      "Independently, two different contestants came up with the world, scofflaw.",
+      "Shortly thereafter, the drink emerged at Harry's New York Bar in Paris, France."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "New York Sour",
+    "img": "new-york-sour.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 egg white",
+      "1 oz lemon juice",
+      ".5 oz rich simple syrup",
+      "2 oz rye",
+      "4 dashes Angostura bitters",
+      ".5 oz red wine"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Roll in liquids and dry shake (no ice) vigorously",
+      "Add ice and shake again til cold",
+      "Double strain into the glass",
+      "Hold bar spoon just over top and slowly add wine",
+      "Add bitters and enjoy!"
+    ],
+    "notes": [
+      "I really like a port wine for this",
+      "This sour variation originated in Chicago, went by different names then eventually settled with New York."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Hot Toddy",
+    "img": "hot-toddy.webp",
+    "equipment": [
+      "Irish coffee mug",
+      "Jigger",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "2 oz liquor",
+      "1 barspoon honey",
+      "1 cinnamon stick",
+      "4 oz hot water"
+    ],
+    "directions": [
+      "Pour hot water in the glass, let it warm up and then dump it",
+      "Pour in whiskey, honey and cinnamon stick then stir",
+      "Top off with hot water and enjoy!"
+    ],
+    "notes": [
+      "There is a belief that the origin of this drink goes back to the early 1600s in the West Indies where locals would ferment palm sap.",
+      "In the West Indies, \"taddy\" refers to a cheap, high-proof spirit distilled from sugarcane juice or molasses.",
+      "It's like that the British brough this back to the UK, added spices acquired via the trade routes and during winter months, added hot water.",
+      "The term can be found in print in the U.S. going back as far as 1837, referring to it as treatmetn for the common cold.",
+      "Historically, this is more a style than a specific drink - any liquor is acceptable.",
+      "Using tea instead of plain hot water can expand flavor profiles."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Orange Creamsicle",
+    "img": "orange-creamsicle.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".5 oz rich simple syrup",
+      "2 oz orange juice",
+      "1.5 oz cream",
+      ".5 oz triple sec",
+      "1 oz vodka",
+      "Orange twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass, add orange twist and enjoy!"
+    ],
+    "notes": [
+      "This cocktail is a nod to the classic dessert on a stick from Popsicle in teh 1930s",
+      "I couldn't find any info on when this became an adult beverage, but it was most likely during the late 20th century."
+    ],
+    "category": "vodka"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Mint Julep",
+    "img": "mint-julep.webp",
+    "equipment": [
+      "Lewis bag and mallet",
+      "Julep glass",
+      "Jigger",
+      "Muddler",
+      "Bar spoon",
+      "Straw"
+    ],
+    "ingredients": [
+      "8 mint leaves",
+      ".25 oz rich simple syrup",
+      "1 sugar cube",
+      "2.5 oz Kentucky bourbon",
+      "Mint sprigs to garnish"
+    ],
+    "directions": [
+      "Crush ice with the Lewis bag and mallet",
+      "Add mint, syrup, sugar cube, bourbon and muddle",
+      "Fill half way with crushed ice and stir, then fill rest of the way with more crushed ice",
+      "Add mint sprig, straw and enjoy!"
+    ],
+    "notes": [
+      "The earliest written mention of the mint julep in the U.S. appeared in an 1803 book by John Davis, who described it as a \"dram of spirituous liquor that has mint in it, taken by Virginians of a morning.\"",
+      "In the 1800s, the julep became closely associated with bourbon whiskey, particularly in Kentucky, and evolved into more of a leisure drink than a medicinal one.",
+      "The first Kentucky Derby ran in 1875 and the mint julep was there to run alongside it.",
+      "Early on, winning jockeys were presented with a silver julep cup to commemorate their achievement.",
+      "In 1938, the drink was given the title of official drink of the Kentucky Derby - and thus it's culture status was set."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Moscow Mule",
+    "title": "",
+    "img": "moscow-mule.webp",
+    "equipment": [
+      "Mule mug",
+      "Jigger",
+      "Fruit juicer",
+      "Paring knife",
+      "Bar spoon",
+      "Straw"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      "2 oz vodka",
+      "4 oz ginger beer"
+    ],
+    "directions": [
+      "Fill mug with small cubed or cracked ice",
+      "Pour in ingredients, beer last and slowly stir to mix",
+      "Add straw and enjoy!"
+    ],
+    "category": "vodka"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "London Mule",
+    "title": "",
+    "img": "london-mule.webp",
+    "equipment": [
+      "Mule mug",
+      "Jigger",
+      "Fruit juicer",
+      "Paring knife",
+      "Bar spoon",
+      "Straw"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      "2 oz London gin",
+      "4 oz ginger beer"
+    ],
+    "directions": [
+      "Fill mug with small cubed or cracked ice",
+      "Pour in ingredients, beer last and slowly stir to mix",
+      "Add straw and enjoy!"
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Mexican Mule",
+    "title": "",
+    "img": "mexican-mule.webp",
+    "equipment": [
+      "Mule mug",
+      "Jigger",
+      "Fruit juicer",
+      "Paring knife",
+      "Bar spoon",
+      "Straw"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      "2 oz tequila",
+      "4 oz ginger beer"
+    ],
+    "directions": [
+      "Fill mug with small cubed or cracked ice",
+      "Pour in ingredients, beer last and slowly stir to mix",
+      "Add straw and enjoy!"
+    ],
+    "category": "tequilaMezcal"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Jamaican Mule",
+    "title": "",
+    "img": "jamaican-mule.webp",
+    "equipment": [
+      "Mule mug",
+      "Jigger",
+      "Fruit juicer",
+      "Paring knife",
+      "Bar spoon",
+      "Straw"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      "2 oz Jamaican rum",
+      "4 oz ginger beer"
+    ],
+    "directions": [
+      "Fill mug with small cubed or cracked ice",
+      "Pour in ingredients, beer last and slowly stir to mix",
+      "Add straw and enjoy!"
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Kentucky Mule",
+    "title": "",
+    "img": "kentucky-mule.webp",
+    "equipment": [
+      "Mule mug",
+      "Jigger",
+      "Fruit juicer",
+      "Paring knife",
+      "Bar spoon",
+      "Straw"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      "2 oz Kentucky bourbon",
+      "4 oz ginger beer"
+    ],
+    "directions": [
+      "Fill mug with small cubed or cracked ice",
+      "Pour in ingredients, beer last and slowly stir to mix",
+      "Add straw and enjoy!"
+    ],
+    "category": "bourbon"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Glasgow Mule",
+    "title": "",
+    "img": "glasgow-mule.webp",
+    "equipment": [
+      "Mule mug",
+      "Jigger",
+      "Fruit juicer",
+      "Paring knife",
+      "Bar spoon",
+      "Straw"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      ".5 oz elderflower liqueur",
+      "1.5 oz blended scotch",
+      "4 oz ginger beer"
+    ],
+    "directions": [
+      "Fill mug with small cubed or cracked ice",
+      "Pour in ingredients, beer last and slowly stir to mix",
+      "Add straw and enjoy!"
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Trinidad Sour",
+    "title": "",
+    "img": "trinidad-sour.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      "1 oz orgeat",
+      "1 oz Angostura bitters",
+      ".5 oz rye"
+    ],
+    "directions": [
+      "Chill glass",
+      "Remove dripper insert from bitters bottle",
+      "Pour ingredients, sans bitters, into short shaker tin and dry (no ice) shake",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass and enjoy!",
+      "Note: No rule on the rye, but may want to lean to a higher AVB for balance",
+      "Don't forget to put bitters dripper insert back in the bottle"
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Trinidad Especial",
+    "title": "",
+    "img": "trinidad-especial.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      "1 oz orgeat",
+      "1 oz Angostura bitters",
+      ".5 oz pisco"
+    ],
+    "directions": [
+      "Chill glass",
+      "Remove dripper insert from bitters bottle",
+      "Pour ingredients, sans bitters, into short shaker tin and dry (no ice) shake",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass, add bitters and enjoy!",
+      "Don't forget to put bitters dripper insert back in the bottle"
+    ],
+    "category": "pisco"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Pisco Sour",
+    "title": "",
+    "img": "pisco-sour.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      ".5 oz rich simple syrup",
+      "2 oz pisco",
+      "1 egg white",
+      "1 dash of Angostura bitters"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients, sans bitters, into short shaker tin and dry (no ice) shake",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass, add bitters and enjoy!"
+    ],
+    "category": "pisco"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Amaretto Sour",
+    "title": "",
+    "img": "amaretto-sour.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Jigger",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      "1 oz lemon juice",
+      ".25 oz rich simple syrup",
+      "1.5 oz amaretto",
+      ".75 oz bourbon",
+      "1 egg white"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin and dry (no ice) shake",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass and enjoy!"
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Love & Murder",
+    "img": "love-murder.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Jigger",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".5 oz rich simple syrup",
+      "1 oz lime juice",
+      "1 oz Campari",
+      "1 oz green Chartreuse",
+      "5 drops saline"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into the glass and enjoy!"
+    ],
+    "notes": [
+      "The creator of this cocktail was Nick Bennett at the Porchlight in NYC.",
+      "The bar was purportedly frequented by members of the theater community.",
+      "Thus, he named after the Tony Award-winning Broadway musical, A Gentleman's Guide to Love and Murder."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "El Presidente",
+    "img": "el-presidente.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".25 oz orange curacao",
+      "1.5 oz white vermouth",
+      "1.5 oz light rum",
+      "1 barspoon rich grenadine",
+      "orange twist",
+      "1 Luxardo Maraschino Cherry"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to the mixing glass, then fill with ice",
+      "Stir until outside of mixing glass gets very cold (approx 30 seconds)",
+      "Strain into the glass, spritz orange, skewer orange and cherry and enjoy!",
+      "Note: Blanc/white vermouth is closer to the original Cuban vermouth"
+    ],
+    "notes": [
+      "This beverage was created in the early 1900s in honor of then Cuban president, Mario Garcia Menoca.",
+      "It was originally thought of as Cuba's answer to the Manhattan.",
+      "In 1925, the new president, Gerardo Machado, wanted the honor, so bartender Eddie Woelke added curacao and everyone was happy."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Chrysanthemum",
+    "title": "",
+    "img": "chrysanthemum.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      "1.5 oz dry vermouth",
+      ".75 oz Benedictine",
+      "3 dahes absinthe",
+      "orange twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to the mixing glass and stir until cold",
+      "Strain drink into the glass, add twist and enjoy!",
+      "Note: The first documented reciped has a 1:1 ratio, making a much sweeter drink"
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "The Pink Pearl",
+    "title": "",
+    "img": "the-pink-pearl.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Fruit juicer",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".5 oz rich grenadine",
+      "1.5 oz grapefruit juice",
+      ".5 oz lemon juice",
+      "1 egg white"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Roll in liquids and dry shake (no ice) vigorously",
+      "Add ice and shake again til cold",
+      "Double strain into the glass and enjoy!"
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Campari Shakerato",
+    "img": "campari-shakerato.webp",
+    "equipment": [
+      "Small up glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      "2 oz Campari"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredient into short shaker tin",
+      "Fill large shaker with ice, roll in liquids and shake vigorously for a good 20 seconds",
+      "Double strain into the glass and enjoy!"
+    ],
+    "notes": [
+      "The word 'shakerato' means shaken in Italian.",
+      "I have been unable to find any direct origin story for this.",
+      "It's suggested the idea stemmed from the 1960s where shaking espresso became popular in Italian cafes."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Garibaldi",
+    "title": "",
+    "img": "garibaldi.webp",
+    "equipment": [
+      "Collins glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer"
+    ],
+    "ingredients": [
+      "~4 oz orange juice",
+      "1.5 oz Campari"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add the Campari to the glass",
+      "Fill large shaker with ice, roll in the orange juice and shake vigorously to airate",
+      "Strain into the glass and enjoy!"
+    ],
+    "notes": [
+      "Note: This is named after a famous Italian general.",
+      "It symbolizes the reunification of the north and south and has a reddish color in line with his followers known as the Redshirts."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Manhattan",
+    "img": "manhattan-full.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "2 dashes of Angostura bitters",
+      "1 oz sweet vermouth",
+      "2 oz rye",
+      "1 Maraschino Cherry"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to the mixing glass and stir until cold",
+      "Strain into the glass, add skewered cherry and enjoy!"
+    ],
+    "notes": [
+      "While the precise inventor remains uncertain, but safe to say it began in the borough of its namesake.",
+      "The drink began appearing in written records sometime in the early 1880s."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Perfect Manhattan",
+    "img": "perfect-manhattan.webp",
+    "equipment": [
+      "Martini glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "4 dashes of Angostura bitters",
+      ".5 oz sweet vermouth",
+      ".5 oz dry vermouth",
+      "2 oz rye",
+      "1 Luxardo Maraschino Cherry"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to the mixing glass and stir until cold",
+      "Strain into the glass, add skewered cherry and enjoy!"
+    ],
+    "notes": [
+      "It is uncertain as to when this cocktail first came to fruition.",
+      "Since the Manhattan came to be in the late 1880s, this probably came not too long thereafter."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Bennett",
+    "img": "bennett.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".5 oz rich simple syrup",
+      "1 oz lime juice",
+      "2 oz gin",
+      "3 dashes Angostura bitters"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "This drink goes back to Robert Vermeire's 1922 book Cocktails: How to Mix them."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Gloria",
+    "img": "gloria.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".5 oz dry vermouth",
+      ".5 oz Campari",
+      ".5 oz triple sec",
+      "1.5 oz gin",
+      "Orange twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to the mixing glass and stir until cold",
+      "Strain into the glass, add twist and enjoy!"
+    ],
+    "notes": [
+      "Credit here goes to the famous tiki master himself, Trader Vic.",
+      "It appeared in print in his Trader Vic's Bartender's Guide around 1947."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Bella Luna",
+    "img": "bella-luna.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      "1 barspoon rich simple syrup",
+      "1 barspoon rich grenadine (partial Creme Yvette substitute)",
+      ".25 barspoon Luxardo Maraschino Liqueur (partial Creme Yvette substitute)",
+      ".5 oz Creme de Violette (partial Creme Yvette substitute)",
+      ".75 oz elderflower liqueur",
+      "2 oz gin"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!",
+      "Note: TBD"
+    ],
+    "notes": [
+      "This drink came from the 2014 publication of Death & Co Modern Classic Cocktails.",
+      "The original recipe calls for .5 oz Creme Yvette, but being extreme difficult to find, I've found and used a multi ingredient substitute."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Fitzgerald",
+    "img": "fitzgerald.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".5 oz rich simple syrup",
+      "1 oz lemon juice",
+      "2 oz gin",
+      "2 dashes Angostura bitters",
+      "Lemon twist garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "The Fitzgerald is credited to NYC bartender, Dale DeGroff, some time in the early 1990s."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Satan's Whiskers",
+    "img": "satans-whiskers.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      "3 dashes of orange bitters",
+      ".5 oz orange curacao",
+      ".5 oz orange juice",
+      ".75 oz dry vermouth",
+      ".75 oz sweet vermouth",
+      ".75 oz gin"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "This goes back to 1920s Prohibition era at the Embassy Club in L.A.",
+      "2 versions are on record: Curled using curacao and straight using Grand Marnier."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Tom Collins",
+    "img": "tom-collins-full.webp",
+    "equipment": [
+      "Highball glass",
+      "Jigger",
+      "Paring knife",
+      "Fruit juicer",
+      "Bar spoon",
+      "Tall straw"
+    ],
+    "ingredients": [
+      ".25 oz rich simple syrup",
+      "1 oz lemon juice",
+      "2 oz gin",
+      "Seltzer",
+      "Lemon wheel"
+    ],
+    "directions": [
+      "And add lemon juice, syrup, gin, a little seltzer and stir",
+      "Fill with ice cubes then top off with more seltzer",
+      "Stir, add lemon twist, a straw and enjoy!"
+    ],
+    "notes": [
+      "There's no rock solid proof, but it's believed that this drink started its life as its creator's namesake, John Collins in early 1800s London, England.",
+      "In 1882, Harry Johnson's Bartender's Manual has a John Collins (with Holland gin) and a Tom Collins (with Old Tom gin).",
+      "Although, several years earlier, the New York / Boston area had going on, The Great Tom Collins Hoax of 1874.",
+      "Bartenders would ask a random patron if they knew a Tom Collins and say that he's been saying slanderous stuff about you, thus sending the poor soul from bar to bar on a wild goose chase."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Tequila Sour",
+    "title": "",
+    "img": "tequila-sour.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".5 oz rich demerara syrup",
+      "1 oz lime juice",
+      "2 oz tequila",
+      "1 egg white",
+      "lime wheel garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Roll in liquids and dry shake (no ice) vigorously",
+      "Add ice and shake again til cold",
+      "Double strain into the glass and enjoy!"
+    ],
+    "category": "tequilaMezcal"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "El Diablo",
+    "title": "",
+    "img": "el-diablo.webp",
+    "equipment": [
+      "Collins glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".5 lime",
+      ".5 oz Creme de Cassis",
+      "1 oz tequila",
+      "~3 oz ginger beer",
+      "lime wheel garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Squeeze and drop in the shell of the lime",
+      "Add ice about 2/3 way up the glass",
+      "Add cassis, tequila and ginger beer",
+      "Stir well and enjoy!"
+    ],
+    "notes": [
+      "This dates back to 1946, once known as a Mexican El Diablo."
+    ],
+    "category": "tequilaMezcal"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Tequila Matador (Café Royal)",
+    "img": "tequila-matador-cafe-royal.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      "1 oz dry vermouth",
+      "1 oz orange curacao",
+      "1 oz tequila blanco"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "This is the original version, published in the 1937 Café Royal Cocktail Book",
+      "An equally popular tiki inspired version was published in the 1972 Trader Vic's Bartender's Guide"
+    ],
+    "category": "tequilaMezcal"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Tequila Matador (Trader Vic)",
+    "title": "",
+    "img": "tequila-matador-cafe-royal.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Fruit juicer",
+      ""
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      "2 oz pineapple juice",
+      "1 oz tequila blanco"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "I'd bump the tequila to 1.5 oz so it can more stand up to the juices",
+      "This tiki inspired version was published in the 1972 Trader Vic's Bartender's Guide",
+      "The original version was published in the 1937 Café Royal Cocktail Book"
+    ],
+    "category": "tequilaMezcal"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Colorado Bulldog",
+    "img": "colorado-bulldog.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer"
+    ],
+    "ingredients": [
+      "1 oz coffee liqueur",
+      "1 oz vodka",
+      "1 oz cream",
+      "Approx 1 oz Cola"
+    ],
+    "directions": [
+      "Pour vodka, liqueur and cream into shaker and shake well",
+      "Fill glass with ice and strain in liquids",
+      "Top off with some cola and enjoy!"
+    ],
+    "notes": [
+      "This cocktail is a riff on the White Russian.",
+      "It's origin is appears to be unknown, but it's like to have come about in the 1980s when White Russians gained great popularity."
+    ],
+    "category": "vodka"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Penicillin",
+    "title": "",
+    "img": "penicillin.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      ".5 oz honey syrup",
+      ".5 oz rich ginger syrup",
+      "2 oz blended scotch",
+      ".25 oz single malt scotch whiskey (for float)"
+    ],
+    "directions": [
+      "Pour vodka, liqueur and cream into shaker and shake well",
+      "Fill glass with ice and strain in liquids",
+      "Top off with some cola and enjoy!"
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Gold Rush",
+    "img": "gold-rush.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Fruit peeler",
+      "Paring knife"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      ".75 oz honey syrup",
+      "2 oz bourbon"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Add 1 large ice cube to glass, double strain in liquids and enjoy!"
+    ],
+    "notes": [
+      "This beverage was created by barman T.J. Siegel at the bar Milk & Honey in New York City in 2001"
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Honeysuckle",
+    "img": "honeysuckle.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      ".5 oz honey syrup",
+      "2 oz light rum",
+      "Lemon peel garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "The origins here are unsure, but it has been cited that this probably came about during 1920s Prohibition."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Honeysuckle Daiquiri (Modern)",
+    "img": "honeysuckle-daiquiri-modern.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      ".5 oz honey syrup",
+      "2 oz light rum",
+      "Lime wheel garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "This recipe can be found in the popular book, Death & Co: Modern Classic Cocktails.",
+      "My belief is that the original, in David Embury's The Fine Art of Mixing Drinks, using lemon in stead of lime and adding orange juice."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Honeysuckle Daiquiri (Classic)",
+    "title": "",
+    "img": "honeysuckle-daiquiri-classic.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      ".75 oz orange juice",
+      ".5 oz honey syrup",
+      "2 oz light rum",
+      "Lime wheel garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "My belief is that this is the original printed version, from David Embury's The Fine Art of Mixing Drinks.",
+      "Decades later, Death & Co: Modern Classic Cocktails made this more like a daiquiri, replacing the lemon with lime and removing the orange juice."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Between the Sheets",
+    "title": "",
+    "img": "between-the-sheets.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".5 oz lemon juice",
+      "1 oz triple sec",
+      ".75 oz cognac",
+      ".75 oz aged rum",
+      "Lemon peel garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "This drink dates back to the mid 20th century at the Detroit Wonder Bar.",
+      "Some suggest credit goes back to Harry's American Bar in Paris, but there's no evidence of such."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Hemingway Daiquiri",
+    "img": "hemingway-daiquiri.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      "1 barspoon rich simple syrup",
+      ".5 oz lime juice",
+      ".5 oz grapefruit juice",
+      ".5 oz maraschino liqueur",
+      "2 oz light rum",
+      "Lime wheel garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "So Hemingway LOVED his drink. Story goes, he was in Havana, tried a daiquiri, and decided it would be perfect with less sugar and more rum.",
+      "The belief is that his version was not a big crowd pleaser, so the drink evolved into this version."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Cafe con Leche",
+    "img": "cafe-con-leche.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      "1 egg yolk",
+      ".5 oz heavy cream or .75 oz half and half",
+      ".5 oz rich simple syrup",
+      "1 oz coffee liqueur",
+      "1 oz dark rum",
+      "Nutmeg"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Roll in liquids and dry shake (no ice) vigorously",
+      "Add ice and shake again til cold",
+      "Double strain into glass, add grated nutmeg and enjoy!"
+    ],
+    "notes": [
+      "This creation is another NYC Milk & Honey creation with credit going to barman, Sam Ross."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Chocolate Punch",
+    "title": "",
+    "img": "chocolate-punch.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      "1 oz heavy cream",
+      ".25 oz rich simple syrup",
+      ".5 oz Creme de Cacao",
+      ".5 oz ruby port",
+      "1 oz cognac",
+      "Nutmeg"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add grated nutmeg and enjoy!",
+      "Note: Substitue nutmeg with chocolate to up the game"
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Oaxacanite",
+    "img": "oaxacanite.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".5 oz honey syrup",
+      ".75 oz lime juice",
+      "1 oz mezcal",
+      "1 oz tequila blanco",
+      "2 dashes Angostura bitters",
+      "Grapefruit twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add twist and enjoy!"
+    ],
+    "notes": [
+      "Credit for this goes to Ben Long at the John Dory Oyster Bar in NYC in the early to mid 2010s.",
+      "The story goes that his boss was not a mezcal fan and thus his goal was to make one that would change her outlook - success."
+    ],
+    "category": "tequilaMezcal"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Maximilian Affair",
+    "title": "",
+    "img": "maximilian-affair.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".25 oz lemon juice",
+      ".5 oz Punt e Mes",
+      "1 oz elderflower liqueur",
+      "1 oz mezcal"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "category": "tequilaMezcal"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Smokestack Lightning",
+    "img": "smokestack-lightning.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".5 oz agave syrup",
+      ".75 oz lime juice",
+      ".25 oz peated scotch",
+      "1.75 oz tequila",
+      "Lime wedge to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "The Smokestack Lightning cocktail was created by Simon Difford in 2009 for Tales of the Cocktail.",
+      "Thanks to acocktailadventure for the inspiration"
+    ],
+    "category": "tequilaMezcal"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Siesta",
+    "title": "",
+    "img": "Siesta.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".5 oz rich simple syrup",
+      ".75 oz lime juice",
+      ".5 oz grapefruit juice",
+      ".25 oz Campari",
+      "1.5 oz tequila"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "This was created in 2006 by Katie Stipe at the Flatiron Lounge in NYC."
+    ],
+    "category": "tequilaMezcal"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Division Bell",
+    "img": "division-bell.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      ".75 Aperol",
+      ".5 oz maraschino liqueur",
+      "1 oz mezcal",
+      "Grapefruit twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add twist and enjoy!"
+    ],
+    "notes": [
+      "New York bartender Phil Ward gets the credit for this creation, back around 2009.",
+      "And for you music buffs, yepper, this was a nod to the Pink Floyd album of the same name."
+    ],
+    "category": "tequilaMezcal"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Naked & Famous",
+    "title": "",
+    "img": "naked-and-famous.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      ".75 Aperol",
+      ".75 oz yellow chartreuse",
+      ".75 oz mezcal"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "In 2011, Joaquin Simo put this beverage together in New York City."
+    ],
+    "category": "tequilaMezcal"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Brandy Crusta",
+    "img": "brandy-crusta.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".25 oz lemon juice",
+      ".25 oz rich simple syrup",
+      ".25 oz triple sec",
+      "2 oz cognac",
+      "2 dashes Angostura bitters",
+      "Sugar rim"
+    ],
+    "directions": [
+      "Chill glass",
+      "Prep rim by rubbing a lemon around it, roll on a small dish of sugar then return to freezer",
+      "Pull a lemon peel long enough to just fit inside the rim of the glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "This drink is credited to bartender, Joseph Santini, way back in the 1850s in New Orleans.",
+      "Possibly in the late 1800s, a trend started to replace the simple syrup with maraschino liqueur.",
+      "It is recognized as the first cocktail to ever use citrus juice as an ingredient.",
+      "This is also recognized as the precursor to the Sidecar and thus the Cable Car cocktails."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Sidecar",
+    "img": "sidecar.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".5 oz lemon juice",
+      "1 oz triple sec",
+      "1.5 oz cognac",
+      "Sugar rim"
+    ],
+    "directions": [
+      "Chill glass",
+      "Prep rim by rubbing a lemon around it, roll on a small dish of sugar then return to freezer",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "This can be found in print as far back as the 1920s with the true creator being uncertain.",
+      "This is strongly believed to be born as a riff on a prior created cocktail, the Brandy Crusta."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Cable Car",
+    "title": "",
+    "img": "cable-car.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      "1 oz lemon juice",
+      ".25 oz rich simple syrup",
+      ".75 oz orange curacao",
+      "1.5 oz spiced rum",
+      "Cinnamon sugar rim",
+      "Orange twist to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Prep rim by rubbing a lemon around it, roll on a small dish of sugar then return to freezer",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "Can DIY with cinnamon powder and granulated sugar.",
+      "It's always good to rim about 2/3rds of a glass leaving the option of where to drink from.",
+      "This was created around 1996 by Tony Abou-Ganim at the Sir Francis Drake Hotel in San Francisco.",
+      "The Cable Car is a modern riff on the classic cocktail, the Sidecar."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Caipirissima",
+    "title": "",
+    "img": "caipirissima.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Paring knife",
+      "Bar spoon",
+      "Muddler",
+      "Lewis bag and mallet"
+    ],
+    "ingredients": [
+      "1 lime",
+      "2 barspoons sugar",
+      "2 oz light rum",
+      "Crushed ice"
+    ],
+    "directions": [
+      "Cut end off lime, cut in half, then into 8ths and put in glass",
+      "Add sugar and muddle until well mixed, then add rum",
+      "Fill rest of the glass with crushed ice",
+      "Stir and enjoy!"
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Eggnog",
+    "img": "eggnog.webp",
+    "equipment": [
+      "Footed rocks glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Grater"
+    ],
+    "ingredients": [
+      ".5 oz rich simple syrup",
+      "1 oz heavy cream",
+      "1 oz 100 proof bourbon",
+      "1 oz overproofed rum",
+      "1 whole egg",
+      "Cinnamon and nutmeg to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Roll in liquids and dry shake (no ice) vigorously",
+      "Add ice and shake again til cold",
+      "Double strain into the glass",
+      "Grate cinnamon and nutmeg over, put cinnamon stick in and enjoy!"
+    ],
+    "notes": [
+      "Brandies and sherries are also often used - dealer's choice"
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Milk Punch",
+    "img": "milk-punch.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Grater"
+    ],
+    "ingredients": [
+      "4 oz whole milk",
+      ".5 oz rich simple syrup",
+      "1 oz brandy",
+      ".5 oz aged rum",
+      "2 dashes vanilla extract",
+      "Nutmeg to garnish"
+    ],
+    "directions": [
+      "Pour liquids into shaker and shake",
+      "Strain into the glass, grate nutmeg over and enjoy!"
+    ],
+    "notes": [
+      "Original recipe called for US Virgin Islands rum"
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Hot Buttered Rum",
+    "title": "",
+    "img": "hot-buttered-rum.webp",
+    "equipment": [
+      "Coffee glass",
+      "Jigger",
+      "Bar spoon",
+      "Grater"
+    ],
+    "ingredients": [
+      "2 oz dark rum",
+      "4 oz hot water",
+      "1 tbsp butter",
+      "2 barspoons dark sugar",
+      ".25 tsp nutmeg",
+      ".25 tsp cinnamon",
+      "Cinnamon stick to garnish"
+    ],
+    "directions": [
+      "",
+      "",
+      " and enjoy!"
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Paloma",
+    "title": "",
+    "img": "paloma.webp",
+    "equipment": [
+      "Coffee glass",
+      "Jigger",
+      "Bar spoon",
+      "Grater"
+    ],
+    "ingredients": [
+      "3 oz grapefruit soda (such as Jarritos or Squirt)",
+      ".5 oz lime juice",
+      "2 oz tequila",
+      "Salt for rimming",
+      "Grapefruit wedge for garnish"
+    ],
+    "directions": [
+      "",
+      "",
+      " and enjoy!"
+    ],
+    "category": "tequilaMezcal"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "American Trilogy",
+    "img": "american-trilogy.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Jigger",
+      "Muddler"
+    ],
+    "ingredients": [
+      "1 large ice cube",
+      "1 cube demerara sugar",
+      "4 dashes orange bitters",
+      "1 oz Applejack",
+      "1 oz rye"
+    ],
+    "directions": [
+      "Put sugar cube in glass and soak with bitters",
+      "Muddle sugar to spread out across bottom of the glass",
+      "Drop in ice cube then pour over the applejack and whiskey",
+      "Give it a good stir to chill and enjoy!"
+    ],
+    "notes": [
+      "Best to try to keep rye and applejack proof similar",
+      "Try to keep rye and applejack proof similar.",
+      "This was created by Richard Boccato and Michael McIlroy at Dutch Kills bar in NYC."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Sazerac",
+    "img": "sazerac-full.webp",
+    "equipment": [
+      "Gibraltar glass",
+      "Jigger",
+      "Mixing glass",
+      "Bar spoon",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      "Spritz or light pour of absinthe",
+      "5 dashes Peychaud's bitters",
+      ".25 oz rich simple syrup",
+      "2 oz rye",
+      "Lemon peel garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Coat/spritz glass with absinthe, dump any extra",
+      "Add liquids to the mixing glass, top with ice and stir until chilled",
+      "Strain into glass, spritz lemon peel and enjoy!"
+    ],
+    "notes": [
+      "The Sazerac is one of the oldest known American cocktails, with roots tracing back to mid-19th century New Orleans.",
+      "By the 1870s, phylloxera (a vine disease) devastated French vineyards, making Cognac scarce.",
+      "American bartenders substituted rye whiskey, which is now the standard.",
+      "In 2008, the Louisiana Legislature named the Sazerac the official cocktail of New Orleans."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Rob Roy",
+    "img": "rob-roy.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "2 dashes of Angostura bitters",
+      "1 oz sweet vermouth",
+      "2 oz blended scotch",
+      "1 Luxardo Maraschino Cherry"
+    ],
+    "directions": [
+      "Add bitters to mixing glass, then fill with ice",
+      "Add whiskey and vermouth",
+      "Stir well, allowing for dilution and chill",
+      "Strain into the glass, add cherry and enjoy!"
+    ],
+    "notes": [
+      "This was first documented in 1894 at NYC's Waldorf Astoria hotel.",
+      "The drink was named in honor of the premiere of the operetta, Rob Roy, loosely based upon Scottish folk hero Rob Roy MacGregor."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Smoke and Mirrors",
+    "img": "smoke-and-mirrors.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      ".5 oz rich simple syrup",
+      ".75 oz lime juice",
+      "1 oz Islay scotch",
+      "1 oz blended scotch",
+      "5 mint leaves",
+      "Absinthe spritz"
+    ],
+    "directions": [
+      "Chill glass",
+      "Put four mint leaves in short shaker tin",
+      "Add lime and simple, then lightly press and twist with a muddler",
+      "Then on top, add the two scotches",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, spritz absinthe a few times, lay a single mint leaf to garnish and enjoy!"
+    ],
+    "notes": [
+      "This was created by Alex Day who was an early bartender at Death & Co in New York City."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Go-To",
+    "title": "",
+    "img": "go-to.webp",
+    "equipment": [
+      "Collins glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Straw"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      ".5 oz elderflower liqueur",
+      "2 oz gin",
+      "3 cucumber slices",
+      "8-10 mint leaves",
+      "Ginger beer"
+    ],
+    "directions": [
+      "Chill glass",
+      "Fill glass about 3/4 with ice",
+      "Pour ingredients, except beer, into short shaker tin",
+      "Fill large shaker with ice, roll in ingredients and shake til cold",
+      "Double strain into glass and top with ginger beer",
+      "Give a light stir, add straw and enjoy!"
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Easy Street",
+    "title": "",
+    "img": "easy-street.webp",
+    "equipment": [
+      "Collins glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Straw"
+    ],
+    "ingredients": [
+      ".75 oz lemon juice",
+      ".5 oz rich simple syrup",
+      ".5 oz elderflower liqueur",
+      "1.5 oz gin",
+      "2 cucumber slices",
+      "Soda water"
+    ],
+    "directions": [
+      "Chill glass",
+      "Fill glass about 3/4 with ice",
+      "Add cucumber, simple and then muddle in short shaker tin",
+      "Pour rest of ingredients, except soda water, into tin",
+      "Fill large shaker with ice, roll in ingredients and shake til cold",
+      "Double strain into glass and top with soda water",
+      "Give a light stir, add straw and enjoy!"
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Blood And Sand",
+    "img": "blood-and-sand.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      ".75 oz orange juice",
+      ".75 oz sweet vermouth",
+      ".75 oz cherry liqueur",
+      ".75 oz blended scotch"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "This first made print in Harry Craddock's 1930 book, The Savoy Cocktail Book.",
+      "It is most likely a nod to the 1922 matador film of the same name."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Mary Pickford",
+    "img": "mary-pickford.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      ".25 rich grenadine",
+      "1.5 oz pineapple juice",
+      "1.5 oz light rum"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "This was believed to have been created in Havana, Cuba by Fred Kaufman and Eddie Woelke.",
+      "It was in honor of Mary Pickford, a huge star of the silent movies era.",
+      "The recipe first appeared in 1928 in When It's Cocktail Time in Cuba by Basil Woon.",
+      "Harry Craddock tweaked the drink a little by adding .25 oz Maraschino liqueur for his 1930 book."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Royal Bermuda Yacht Club",
+    "title": "",
+    "img": "royal-bermuda-yacht-club.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      ".5 oz orange curacao",
+      ".5 oz falernum",
+      ".75 oz light rum",
+      ".75 oz light rum"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "Original recipe called for Barbados rum. I like a combo of 2 different styles here.",
+      "A tiki-fied daiquiri riff from the 1940s."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Hurricane",
+    "title": "",
+    "img": ".webp",
+    "equipment": [
+      "Hurricane glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      "2 oz lemon juice",
+      "2 oz passionfruit syrup",
+      "2 oz dark rum",
+      "2 oz aged rum"
+    ],
+    "directions": [
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with small, pebble or crushed ice, roll in the liquids and shake til cold",
+      "Pour all contents into the glass, top with more ice, add wind blown umbrella and enjoy!"
+    ],
+    "notes": [
+      "Can go 4oz of just dark rum and skip the aged.",
+      "This is closer to the original Pat O'Brien's Hurricane, not the more modern version."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Dark N Stormy",
+    "title": "",
+    "img": ".webp",
+    "equipment": [
+      "Highball glass",
+      "Jigger",
+      "Paring knife",
+      "Straw"
+    ],
+    "ingredients": [
+      "Ginger beer",
+      "2 oz Goslings Black Seal rum",
+      "Lime wedge to garnish"
+    ],
+    "directions": [
+      "Fill glass with ice",
+      "Pour ginger beer almost to the top of the glass, leaving just enough room for the rum",
+      "Pour in the rum",
+      "Add lime to the rim, put in straw and enjoy!"
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "DEF Banana",
+    "title": "",
+    "img": "def-banana.webp",
+    "equipment": [
+      "Lowball glass",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".25 rich grenadine",
+      ".5 oz lime juice",
+      ".5 oz pineapple juice",
+      ".5 oz banana liqueur",
+      ".5 oz coconut rum",
+      "2 oz dark rum",
+      "1 block ice"
+    ],
+    "directions": [
+      "In the shaker add rum, syrup and lemon juice",
+      "Add ice cubes and shaker vigorously",
+      "Strain into a glass and enjoy!",
+      "(bonus: garnish with a lime wheel)"
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Aviation",
+    "img": "aviation.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Fruit juicer",
+      "Paring knife",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1/2 oz lemon juice",
+      "1/4 oz Creme de Violette",
+      "1/4 oz Maraschino liqueur",
+      "2 oz gin",
+      "1 Luxardo Maraschino Cherry"
+    ],
+    "directions": [
+      "Chill glass",
+      "Rinse juice off of cherry and place in the glass",
+      "Add liquids to the mixing glass, then fill with ice",
+      "Stir until outside of mixing glass gets very cold (approx 30 seconds)",
+      "Strain into the glass and enjoy!"
+    ],
+    "notes": [
+      "Stirred not shaken to keep the visual clear, not cloudy.",
+      "Can try shaken, just bump lemon to 3/4 and violette to 1/2 to offset dilution.",
+      "On December 17, 1903, the Wright Brothers took flight at Kitty Hawk, North Carolina.",
+      "Subsequently, multiple cocktails were named Aviation, but one stood taller and stuck with the community.",
+      "That was this one, created by Hugo Ensslin at the Hotel Wallick in NYC, then later published in 1916."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 3,
+    "title": "Pink Gin",
+    "img": "pink-gin.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "6 dashes Angostura bitters",
+      "3 oz gin"
+    ],
+    "directions": [
+      "Add liquids to the mixing glass, then fill with ice",
+      "Stir until mixing glass gets really cold",
+      "Strain into the coupe and enjoy!"
+    ],
+    "notes": [
+      "Plymouth was the original source of this British Navy drink",
+      "This dates back to the early to mid 1800s.",
+      "Angostura bitters was originally used to treat stomach and intestinal issues."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Water Lily",
+    "title": "",
+    "img": "water-lily.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "3/4 oz lemon juice",
+      "3/4 oz Creme de Violette",
+      "3/4 oz triple sec",
+      "3/4 oz gin"
+    ],
+    "directions": [
+      "Rinse juice off of cherry and place in a chilled glass",
+      "Add liquids to the mixing glass, then fill with ice",
+      "Stir until mixing glass gets really cold",
+      "Strain into the coupe and enjoy!"
+    ],
+    "notes": [
+      "Can try shaken, just bump lemon to 3/4 and violette to 1/2"
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Artillery",
+    "img": "artillery.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 oz sweet vermouth",
+      "2 oz gin"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to the mixing glass, then fill with ice",
+      "Stir until mixing glass gets really cold",
+      "Strain into the glass and enjoy!"
+    ],
+    "notes": [
+      "This drink comes from Harry Craddock's 1930 The Savoy Cocktail Book."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "The Godfather",
+    "img": "the-godfather.webp",
+    "equipment": [
+      "Double rocks glass",
+      "Stirrer",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".5 oz amaretto",
+      "1.5 oz blended scotch",
+      "Orange twist to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to the glass, stir, follow with a block of ice",
+      "Stir further to chill, add twist and enjoy!"
+    ],
+    "notes": [
+      "This is a 1970s drink named eponymously after the character and movie, although the true creator is unknown.",
+      "Not sure it's fact, but many suggest this was a favorite go-to for the man himself, Marlon Brando.",
+      "The ratios involved seem to vary quite a bit, so go with what strikes your fancy best."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Mamie Taylor",
+    "img": "mamie-taylor.webp",
+    "equipment": [
+      "Collins or double rocks glass",
+      "Fruit juicer",
+      "Bar spoon",
+      "Paring knife"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      "2 oz blended scotch",
+      "Ginger beer",
+      "Lime wedge to garnish"
+    ],
+    "directions": [
+      "Add ice to the glass, pour in lime then scotch, top off with the ginger beer",
+      "Stir, add garnish and enjoy!"
+    ],
+    "notes": [
+      "The creation of the Mamie Taylor cocktail is largely attributed to a bartender (possibly Bill Sterritt) in Rochester, New York, in 1899.",
+      "The drink is named after Mayme Taylor (sometimes spelled Mamie), a popular vaudeville and comic opera actress of that era."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "The Hunter",
+    "img": "the-hunter.webp",
+    "equipment": [
+      "Martini glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon",
+      "Garnish skewer"
+    ],
+    "ingredients": [
+      "3 dashes of orange bitters",
+      "1/8 oz maraschino liqueur",
+      ".25 oz cherry liqueur",
+      "2.5 oz bourbon",
+      "1 Luxardo Maraschino Cherry"
+    ],
+    "directions": [
+      "Fill mixing glass with some ice",
+      "Add ingredients and stir until very cold",
+      "Strain into the glass, add skewered cherry and enjoy!"
+    ],
+    "notes": [
+      "The origins here is unknown, but it probably came from the 1920s Prohibition as it was starting to show up in print in the 1930s."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "The Revolver",
+    "img": "the-revolver.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife"
+    ],
+    "ingredients": [
+      "2 dashes of orange bitters",
+      ".5 oz coffee liqueur",
+      "2.5 oz Bulleit bourbon",
+      "1 orange peel disc"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, flame squeeze the orange disc and enjoy"
+    ],
+    "notes": [
+      "Barman Jon Santer came up with this one while working at Bruno's Bar, San Francisco, California"
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Brown Derby",
+    "title": "",
+    "img": "brown-derby.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      "1 oz grapefruit juice",
+      ".5 oz honey syrup",
+      "2 oz bourbon"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, flame squeeze the orange disc and enjoy"
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Churchill",
+    "img": "churchill.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      ".5 oz lime juice",
+      ".5 oz sweet vermouth",
+      ".5 oz triple sec",
+      "1.5 oz blended scotch",
+      "Orange or lime peel to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add garnish and enjoy!"
+    ],
+    "notes": [
+      "The classic triple sec used was Cointreau.",
+      "It is said that Churchill had a love of scotch was second to none.",
+      "While the drink was a nod to the great world leader, Churchill was known to like his scotch with nothing but water.",
+      "His go-to scotch was said to be Johnnie Walker Red and he would sip it from morning til nighttime.",
+      "The cocktail was invented by barman and Churchill friend Joe Gilmore, from the famous Savoy Hotel's American Bar in London."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "Commando",
+    "img": "commando.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      "Absinthe spritz",
+      ".25 oz rich simple syrup",
+      ".75 oz lime juice",
+      ".75 oz triple sec",
+      "1.5 oz bourbon"
+    ],
+    "directions": [
+      "Chill glass",
+      "Spritz glass with a very light coat of absinthe",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "This beverage came out of the extremely famous Stork Club in New York City, some time in the early to mid 20th century."
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Cosmopolitan",
+    "title": "",
+    "img": "cosmopolitan.webp",
+    "equipment": [
+      "Martini glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      "1/2 oz lime juice",
+      "1/2 oz cranberry juice",
+      "3/4 oz Triple Sec",
+      "1 1/2 oz vodka",
+      "Lime wedge or twist, for garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "category": "vodka"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Twinkle",
+    "title": "",
+    "img": "twinkle.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      ".5 oz elderflower liqueur",
+      "2 oz vodka",
+      "2 oz sparkling wine",
+      "lemon twist to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour elderflower and vodka into mixing glass, add ice and stir for a good chill",
+      "Strain into a chilled martini glass, top with sparkling wine, add garnish and enjoy!"
+    ],
+    "category": "vodka"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Mudslide",
+    "title": "",
+    "img": "mudslide.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer"
+    ],
+    "ingredients": [
+      "1.5 oz heavy cream",
+      "1 oz Kahlua",
+      "1 oz Baileys Irish Cream",
+      "1 oz vodka"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Strain into glass and enjoy!"
+    ],
+    "category": "vodka"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Jack Rose",
+    "img": "jack-rose.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      ".5 oz rich grenadine syrup",
+      "2 oz Applejack"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "This cocktail dates back to at least the early 1900s",
+      "There are multiple stories as to this drink's beginnings, but most are probably fabricated."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Applejack Rabbit",
+    "title": "",
+    "img": "applejack-rabbit.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      ".75 oz orange juice",
+      ".5 oz lemon juice",
+      ".5 oz dark maple syrup",
+      "2 oz Applejack"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "This cocktail dates back to at least the early 1900s",
+      "There are multiple stories as to this drink's beginnings, but most are probably fabricated."
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "The Littlest Rebel",
+    "title": "",
+    "img": "the-littlest-rebel.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      ".25 oz rich grenadine",
+      "1 oz Applejack",
+      ".5 oz scotch",
+      "1 egg white"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Roll in liquids and dry shake (no ice) vigorously",
+      "Add ice and shake again til cold",
+      "Double strain into the glass, grate some nutmeg and enjoy!"
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Alexander",
+    "title": "",
+    "img": "alexander.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Grater"
+    ],
+    "ingredients": [
+      "1 oz cream",
+      "1 oz creme de cacao",
+      "2 oz gin",
+      "Nutmeg to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Roll in liquids and dry shake (no ice) vigorously",
+      "Add ice and shake again til cold",
+      "Double strain into the glass, grate some nutmeg and enjoy!"
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Brandy Alexander",
+    "title": "",
+    "img": "brandy-alexander.webp",
+    "equipment": [
+      "Coupe glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Grater"
+    ],
+    "ingredients": [
+      "1 oz cream",
+      "1 oz creme de cacao",
+      "2 oz brandy",
+      "Nutmeg to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Roll in liquids and dry shake (no ice) vigorously",
+      "Add ice and shake again til cold",
+      "Double strain into the glass, grate some nutmeg and enjoy!"
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Orchard Keeper",
+    "title": "",
+    "img": "orchard-keeper.webp",
+    "equipment": [
+      "Coupe glass",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Jigger",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      ".75 oz white vermouth",
+      ".5 oz honey syrup",
+      "2 oz applejack",
+      "1 apple slice to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Roll in liquids and dry shake (no ice) vigorously",
+      "Add ice and shake again til cold",
+      "Double strain into the glass and enjoy!"
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Pan American Clipper",
+    "title": "",
+    "img": "pan-american-clipper.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      "3/4 oz lime juice",
+      "3/4 oz grenadine syrup",
+      "2 oz Applejack",
+      "Absinthe spritz"
+    ],
+    "directions": [
+      "Chill glass",
+      "Spritz glass with a very light coat of absinthe",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy"
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Champagne Cocktail",
+    "title": "",
+    "img": "champagne-cocktail.webp",
+    "equipment": [
+      "Champagne flute",
+      "Fruit peeler",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "1 sugar cube",
+      "4 dashes Angostura bitters",
+      "4-6 oz Champagne (or other sparkling wine)",
+      "Lemon twist"
+    ],
+    "directions": [
+      "Chill glass",
+      "Put sugar in a barspoon, saturate with bitters then drop into the glass",
+      "Fill the rest of the way with the Champagne",
+      "Add twist and enjoy"
+    ],
+    "notes": [
+      "An alternate version is to include 1 oz of brandy"
+    ],
+    "category": "other"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Airmail",
+    "title": "",
+    "img": "airmail.webp",
+    "equipment": [
+      "Champagne flute",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer"
+    ],
+    "ingredients": [
+      ".5 oz honey syrup",
+      ".5 oz lime juice",
+      "1 oz light rum",
+      "2-4 oz Champagne (or other sparkling wine)"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour syrup, lime and rum into short shaker tin",
+      "Fill large shaker with crushed ice, roll in the liquids and shake til cold",
+      "Double strain into glass, top with the bubbly and enjoy!"
+    ],
+    "notes": [
+      "This originated in a 1930s pamphlet, Bacardi And Its Many Uses."
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Pina Colada",
+    "title": "",
+    "img": "pina-colada.webp",
+    "equipment": [
+      "Hurricane or Tiki glass",
+      "Blender",
+      "Jigger",
+      "Paring knife"
+    ],
+    "ingredients": [
+      "6 oz crushed ice",
+      "1/4 tsp xantham gum",
+      "2 oz pineapple juice",
+      "1 oz sweetened coconut cream",
+      "2 oz light rum",
+      "Straw",
+      "Umbrella, pineapple wedge and pineapple frond to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into blender and run til smooth",
+      "Pour into glass, add garnish and enjoy"
+    ],
+    "notes": [
+      "Amount of crushed ice used is relative to glassware",
+      "As with many rum drinks, the type of rum is optional",
+      "Suggest to go with less expensive as the pineapple and coconut flavors take the forefront"
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Painkiller",
+    "title": "",
+    "img": "painkiller.webp",
+    "equipment": [
+      "Hurricane or Tiki glass",
+      "Blender",
+      "Jigger",
+      "Paring knife"
+    ],
+    "ingredients": [
+      "6 oz crushed ice",
+      "1 oz orange juice",
+      "3 oz pineapple juice",
+      "1 oz sweetened coconut cream",
+      "2 oz Pusser's Original rum",
+      "Straw",
+      "Umbrella, pineapple wedge and pineapple frond to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with crushed ice, roll in the liquids and shake til cold",
+      "Pour into glass, add garnish and enjoy"
+    ],
+    "notes": [
+      "Amount of crushed ice used is relative to glassware",
+      "As with many rum drinks, the type of rum is optional",
+      "Suggest to go with less expensive as the pineapple and coconut flavors take the forefront"
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Mai Tai",
+    "title": "",
+    "img": "mai-tai.webp",
+    "equipment": [
+      "Tiki glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Paring knife",
+      "Fruit juicer",
+      "Mint and lime to garnish"
+    ],
+    "ingredients": [
+      "6 oz crushed ice",
+      ".75 oz lime juice",
+      ".25 oz rich simple syrup",
+      ".25 oz orgeat",
+      ".5 oz orange curacao",
+      "1 oz funky Jamaican rum",
+      "2 oz light rum",
+      "Straw",
+      "Sprig of mint and half of a lime to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with crushed ice, roll in the liquids and shake til cold",
+      "Pour into glass, add garnish and enjoy",
+      "Note: As with many rum drinks, the type of rum is optional"
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Jungle Bird",
+    "title": "",
+    "img": "jungle-bird.webp",
+    "equipment": [
+      "Tiki glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Paring knife",
+      "Fruit juicer",
+      "Straw",
+      "Mint and lime to garnish"
+    ],
+    "ingredients": [
+      "6 oz crushed ice",
+      ".5 oz lime juice",
+      "2 oz pineapple juice",
+      ".25 oz rich demerara syrup",
+      ".75 oz Campari",
+      "1.5 oz black blended rum",
+      "Umbrella, pineapple wedge and pineapple frond to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with crushed ice, roll in the liquids and shake til cold",
+      "Pour into glass, add garnish and enjoy",
+      "Note: As with many rum drinks, the type of rum is optional"
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Frozen Blackberry Bourbon Mule",
+    "title": "",
+    "img": "frozen-blackberry-bourbon-mule.webp",
+    "equipment": [
+      "Tiki glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Paring knife",
+      "Fruit juicer",
+      "Straw",
+      "Mint and lime to garnish"
+    ],
+    "ingredients": [
+      "4 oz ginger beer",
+      "1 oz blackberry puree",
+      "2 oz bourbon",
+      "Frozen blackberries and rosemary to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Puree blackberries then pour into glass",
+      "Add bourbon and stir",
+      "Pour in ginger beer and stir lightly",
+      "Top with garnishes and enjoy"
+    ],
+    "category": "whiskey"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "DEF Island",
+    "img": "def-island.webp",
+    "equipment": [
+      "Coupe glass",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      "1 oz orange juice",
+      "1 oz orange curacao",
+      "1 oz coconut rum",
+      "1 oz mango rum",
+      "1 oz spiced rum"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "The came about as I was looking to create a tasty, citrusy, almost dessert-like cocktail",
+      "Some of the inspiration may have come from a desire to put some less popular bottles to use :)"
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "DEF Aper Appy",
+    "title": "",
+    "img": "def-.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Mixing glass",
+      "Julep strainer",
+      "Bar spoon",
+      "Fruit peeler"
+    ],
+    "ingredients": [
+      ".5 oz lemon juice",
+      ".25 oz rich simple syrup",
+      "1 oz dry vermouth",
+      "1 oz Aperol",
+      "1 oz gin"
+    ],
+    "directions": [
+      "Chill glass",
+      "Add liquids to the mixing glass and stir until cold",
+      "Strain drink into the glass and enjoy!"
+    ],
+    "category": "rum"
+  },
+  {
+    "refined": "y",
+    "score": 4,
+    "title": "Rattle Skull",
+    "img": "beer-rattle-skull.webp",
+    "equipment": [
+      "16 oz beer mug or pint glass",
+      "Jigger",
+      "Bar spoon",
+      "Fruit juicer",
+      "Paring knife",
+      "Grater"
+    ],
+    "ingredients": [
+      ".75 oz lime juice",
+      ".5 oz rich demerara syrup",
+      "1 oz rum",
+      "1 oz cognac",
+      "12 oz porter or stout beer",
+      "Nutmeg"
+    ],
+    "directions": [
+      "Pour beer into the mug and let settle",
+      "Slowly add in ingredients one by one",
+      "Slowly stir to incoporate everything, grate nutmeg on top and enjoy!"
+    ],
+    "notes": [
+      "This drink dates back to the 1700s, Colonial era as a tavern favorite.",
+      "Ingredients are flexible with any dark beer while rum or cognac can be the lone liquor."
+    ],
+    "category": "beer"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Black and Tan",
+    "img": "beer-black-and-tan.webp",
+    "equipment": [
+      "Pint glass",
+      "Black and tan tool or spoon"
+    ],
+    "ingredients": [
+      "1 can Guinness stout",
+      "1 bottle of Harp lager"
+    ],
+    "directions": [
+      "Pour lager into the glass a little more than half way with a good head",
+      "Using a tool or back of a spoon, slowly pour in the Guinness letting it drip down the sides of the glass",
+      "Pause a moment to take in the beauty, then enjoy"
+    ],
+    "notes": [
+      "The term likely originated in England, where beers have been blended since at least the 17th century.",
+      "The belief is that mixing lighter beer with strong beer would reduce taxes and turn greater profits.",
+      "In Ireland, this is typically referred to as a Half and Half, as Black and Tan has negative historical connotations."
+    ],
+    "category": "beer"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Queen Mary",
+    "title": "",
+    "img": "queen-mary.webp",
+    "equipment": [
+      "Beer glass",
+      "Jigger"
+    ],
+    "ingredients": [
+      ".5 oz rich grenadine",
+      "1 beer",
+      "1 Maraschino Cherry to garnish"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour beer into the glass, slowly drizzle the grenadine over the head, add cheery and enjoy!"
+    ],
+    "category": "beer"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Shirley Temple",
+    "title": "",
+    "img": "shirley-temple.webp",
+    "equipment": [
+      "Highball glass",
+      "Jigger",
+      "Bar spoon",
+      "Fruit juicer",
+      "Garnish skewer",
+      "Straw"
+    ],
+    "ingredients": [
+      ".5 oz rich grenadine",
+      "2 Luxardo Maraschino Cherries",
+      "~8 oz ginger ale or lemon-lime soda"
+    ],
+    "directions": [
+      "Add grenadine to glass",
+      "Fill glass about 3/4 with ice, fill with soda and lightly stir",
+      "Skewer cherries and lay across the glass, letting a little cherry juice fall in",
+      "Enjoy!"
+    ],
+    "notes": [
+      "This is said to have been created in the 1930s in Los Angeles for the then childhood actress of the namesake.",
+      "The belief is that Miss Temple actually didn't care for the drink at all.",
+      "I can't, in good conscience, carry nor serve day-glo cherries."
+    ],
+    "category": "na"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Dirty Shirley Temple",
+    "title": "",
+    "img": "dirty-shirley-temple.webp",
+    "equipment": [
+      "Highball glass",
+      "Jigger",
+      "Bar spoon",
+      "Fruit juicer",
+      "Garnish skewer",
+      "Straw"
+    ],
+    "ingredients": [
+      ".5 oz rich grenadine",
+      "2 oz vodka",
+      "2 Luxardo Maraschino Cherries",
+      "~6 oz ginger ale or lemon-lime soda"
+    ],
+    "directions": [
+      "Add grenadine to glass",
+      "Fill glass about 3/4 with ice, fill with soda and lightly stir",
+      "Skewer cherries and lay across the glass, letting a little cherry juice fall in",
+      "Enjoy!"
+    ],
+    "notes": [
+      "This is said to have been created in the 1930s in Los Angeles for the then childhood actress of the namesake.",
+      "The belief is that Miss Temple actually didn't care for the drink at all.",
+      "I can't, in good conscience, carry nor serve day-glo cherries."
+    ],
+    "category": "vodka"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "title": "DEF Shirley Temple",
+    "img": "def-shirley-temple.webp",
+    "equipment": [
+      "Highball glass",
+      "Jigger",
+      "Bar spoon",
+      "Fruit juicer",
+      "Garnish skewer",
+      "Straw"
+    ],
+    "ingredients": [
+      ".5 oz lime juice",
+      ".5 oz rich grenadine",
+      "2 Luxardo Maraschino Cherries",
+      "~8 oz seltzer"
+    ],
+    "directions": [
+      "Add lime juice and grenadine to glass",
+      "Fill glass about 3/4 with ice, fill with seltzer and lightly stir",
+      "Skewer cherries and lay across the glass, letting a little cherry juice fall in",
+      "Enjoy!"
+    ],
+    "notes": [
+      "In my opinion, this is my slighly more elevated variation.",
+      "This is said to have been created in the 1930s in Los Angeles for the then childhood actress of the namesake.",
+      "The belief is that Miss Temple actually didn't care for the drink at all.",
+      "This recipe is fairly sweet, may want to dial back the lime and grenadine.",
+      "I can't, in good conscience, carry nor serve day-glo cherries."
+    ],
+    "category": "na"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "DEF Don't Call Me Shirley Temple",
+    "title": "",
+    "img": "def-dont-call-me-shirley-temple.webp",
+    "equipment": [
+      "Highball glass",
+      "Jigger",
+      "Bar spoon",
+      "Fruit juicer",
+      "Garnish skewer",
+      "Straw"
+    ],
+    "ingredients": [
+      ".5 oz lime juice",
+      ".5 oz rich grenadine",
+      "2 oz blended scotch",
+      "2 Luxardo Maraschino Cherries",
+      "~6 oz seltzer"
+    ],
+    "directions": [
+      "Add lime juice and grenadine to glass",
+      "Fill glass about 3/4 with ice, fill with seltzer and stir",
+      "Skewer cherries and lay across the glass, letting a little cherry juice fall in",
+      "Enjoy!"
+    ],
+    "notes": [
+      "This is my silly variation on a Shirley Temple while paying homage to the great comedic movie, Airplane.",
+      "I went with scotch as it purportedly was a liquor enjoyed by the late Leslie Nielsen."
+    ],
+    "category": "na"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Arnold Palmer",
+    "title": "",
+    "img": ".webp",
+    "equipment": [
+      "Highball glass",
+      "Jigger",
+      "Straw"
+    ],
+    "ingredients": [
+      "~4 oz lemonade",
+      "~4 oz unsweetened iced tea"
+    ],
+    "directions": [
+      "Chill glass",
+      "Fill glass about 3/4 with ice, then add equal parts lemonade and ice tea",
+      "Stir to integrate and enjoy!"
+    ],
+    "category": "na"
+  },
+  {
+    "refined": "n",
+    "score": 0,
+    "temptitle": "Roy Rogers",
+    "title": "",
+    "img": ".webp",
+    "equipment": [
+      "Highball glass",
+      "Jigger",
+      "Straw"
+    ],
+    "ingredients": [
+      ".5 oz rich grenadine",
+      "1 maraschino cherry",
+      "1 can or bottle of cola"
+    ],
+    "directions": [
+      "Chill glass",
+      "Fill glass about 1/2 with ice, add cola to near the top",
+      "Once settled, drizzle in the grenadine, drop in the cherry and enjoy!"
+    ],
+    "category": "na"
+  },
+  {
+    "refined": "y",
+    "score": 0,
+    "temptitle": "Alabazam",
+    "title": "",
+    "img": "alabazam.webp",
+    "equipment": [
+      "Nick and Nora glass",
+      "Jigger",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
+      "Paring knife",
+      "Fruit juicer"
+    ],
+    "ingredients": [
+      "1 barspoon Angostura bitters (same)",
+      "1 barspoon rich simple syrup (.5 oz)",
+      "1 barspoon lemon juice (.75 oz)",
+      "2 barspoons triple sec (.5 oz)",
+      "2.5 oz cognac (1.5 oz)"
+    ],
+    "directions": [
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass and enjoy!"
+    ],
+    "notes": [
+      "This drink dates back to 1878 in a book called American and Other Drinks by Leo Engel.",
+      "This is strongly believed to be born as a riff on a prior created cocktail, the Brandy Crusta."
+    ],
+    "category": "other"
+  }
+]

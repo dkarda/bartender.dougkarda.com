@@ -1,69 +1,58 @@
-import React, { useState } from 'react';
-import { Link, Outlet, useMatch, useResolvedPath } from "react-router-dom"
-import '../styles/Navbar.scss';
+import { useEffect, useState } from "react";
+import { Link, Outlet, useLocation } from "react-router-dom";
+
+const links = [
+  { to: "/recipes", label: "Recipes", activeOn: ["/recipes"] },
+  { to: "/shelf", label: "Shelf", activeOn: ["/shelf", "/bottles", "/wines"] },
+  { to: "/shop", label: "Shop", activeOn: ["/shop"] },
+];
 
 const Navbar = () => {
-    const [menuOpen, setMenuOpen] = useState(false)
+  const [menuOpen, setMenuOpen] = useState(false);
+  const location = useLocation();
 
-    return ( 
-        <>
-            <nav>
-                <Link to="/" className="site-title">Home</Link>
-                <div className="menu" onClick={() => {
-                    setMenuOpen(!menuOpen)
-                }}>
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </div>
-                <ul className={menuOpen ? "open" : ""}>
-                    <CustomLink to="/shop">
-                        <img src="https://assets.dougkarda.com/images/icons/icon-shopping-cart.png" 
-                            alt="Beverages icon" />
-                        <span>The Store</span>
-                    </CustomLink>
-                    <CustomLink to="/beverages">
-                        <img src="https://assets.dougkarda.com/images/icons/icon-beverage-trans.png" 
-                            alt="Beverages icon" />
-                        <span>Beverages</span>
-                    </CustomLink>
-                    <CustomLink to="/beveragesFuture">
-                        <img src="https://assets.dougkarda.com/images/icons/icon-beverage-trans.png"
-                            alt="FutureBeverages icon" className="upside-down" />
-                        <span>Future Beverages</span>
-                    </CustomLink>
-                    <CustomLink to="/wine">
-                        <img src="https://assets.dougkarda.com/images/icons/icon-wine-trans.png" 
-                            alt="Wine icon" />
-                        <span>Wine</span>
-                    </CustomLink>
-                    <CustomLink to="/whiskey">
-                        <img src="https://assets.dougkarda.com/images/icons/icon-whiskey-trans.png"
-                            alt="Whiskey icon" />
-                        <span>Whiskey</span>
-                    </CustomLink>
-                    <CustomLink to="/liquor">
-                        <img src="https://assets.dougkarda.com/images/icons/icon-liquor-trans.png" 
-                            alt="Liquor icon" />
-                        <span>Liquor</span>
-                    </CustomLink>
-                </ul>
-            </nav>
-            <div className="container">
-                <Outlet />
-            </div>
-        </>
-    )
-}
+  useEffect(() => {
+    setMenuOpen(false);
+  }, [location.pathname, location.search]);
 
-function CustomLink({to, children, ...props}) {
-    const resolvedPath = useResolvedPath(to);
-    const isActive = useMatch({ path: resolvedPath.pathname, end: true });
-    return (
-        <li className={isActive ? "active" : ""}>
-            <Link to={to} {...props}>{children}</Link>
-        </li>
-    )
-}
-  
+  return (
+    <>
+      <nav>
+        <Link to="/" className="site-title">
+          Behind the Bar
+        </Link>
+        <button
+          type="button"
+          className="menu"
+          aria-expanded={menuOpen}
+          onClick={() => setMenuOpen((open) => !open)}
+        >
+          {menuOpen ? "Close" : "Menu"}
+        </button>
+        <ul className={menuOpen ? "open" : ""}>
+          {links.map((link) => (
+            <li
+              key={link.to}
+              className={
+                link.activeOn.some(
+                  (path) =>
+                    location.pathname === path ||
+                    location.pathname.startsWith(`${path}/`)
+                )
+                  ? "active"
+                  : ""
+              }
+            >
+              <Link to={link.to}>{link.label}</Link>
+            </li>
+          ))}
+        </ul>
+      </nav>
+      <div className="container">
+        <Outlet />
+      </div>
+    </>
+  );
+};
+
 export default Navbar;
