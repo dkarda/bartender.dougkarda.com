@@ -261,7 +261,7 @@ nav li.active a {
   width: 100%;
   aspect-ratio: 4 / 5;
   display: block;
-  background: #0e0c0a;
+  background: #333;
 }
 
 .catalog-card img {
@@ -339,12 +339,13 @@ nav li.active a {
   margin-bottom: 0.75rem;
 }
 
-.kicker {
-  margin: 0 0 0.35rem;
-  color: var(--brass);
-  font-size: 0.75rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+.draft-note {
+  margin: 0 0 1rem;
+  color: var(--paper-ink);
+  background: rgba(198, 161, 91, 0.12);
+  border: 1px solid rgba(198, 161, 91, 0.35);
+  border-radius: 10px;
+  padding: 0.7rem 0.9rem;
 }
 
 .meta {

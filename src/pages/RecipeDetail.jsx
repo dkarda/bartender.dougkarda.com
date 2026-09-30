@@ -47,8 +47,10 @@ const RecipeDetail = () => {
       image={imageSrc("beverages", recipe.img)}
     >
       {recipe.draft ? (
-        <p className="kicker">
-          {recipe.refined === "n" ? "Draft · still a sketch" : "Draft"}
+        <p className="draft-note">
+          {recipe.refined === "y"
+            ? "This recipe has been refined."
+            : "This recipe has not been refined yet."}
         </p>
       ) : null}
       <h1>{recipe.name}</h1>

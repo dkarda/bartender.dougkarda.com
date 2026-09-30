@@ -291,7 +291,7 @@
     "score": 0,
     "temptitle": "Parasol",
     "title": "",
-    "img": "daiquiri.webp",
+    "img": "",
     "equipment": [
       "Coupe glass",
       "Boston shaker",
@@ -1976,7 +1976,7 @@
     "score": 0,
     "temptitle": "Dirty Martini",
     "title": "",
-    "img": "martini.webp",
+    "img": "",
     "equipment": [
       "Martini glass",
       "Jigger",
@@ -2830,7 +2830,7 @@
     "score": 0,
     "temptitle": "Irish Antidote",
     "title": "",
-    "img": "wild-eyed-rose.webp",
+    "img": "",
     "equipment": [
       "Double rocks glass",
       "Jigger",
@@ -3872,7 +3872,7 @@
     "score": 0,
     "temptitle": "Tequila Matador (Trader Vic)",
     "title": "",
-    "img": "tequila-matador-cafe-royal.webp",
+    "img": "",
     "equipment": [
       "Nick and Nora glass",
       "Jigger",

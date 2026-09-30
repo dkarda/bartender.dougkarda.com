@@ -304,6 +304,22 @@
     "count": 0
   },
   {
+    "title": "Balcones 1",
+    "size": "750 ml",
+    "type": "Single Malt American Whiskey",
+    "locale": "Texas",
+    "mashbill": "",
+    "abv": "53%",
+    "img": "balcones-1.webp",
+    "category": "americanwhiskey",
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "count": 1
+  },
+  {
     "title": "Balcones Lineage",
     "size": "750 ml",
     "type": "Single Malt American Whiskey",
@@ -2159,6 +2175,22 @@
     "count": 0
   },
   {
+    "title": "Grey Goose Vodka",
+    "size": "750 ml",
+    "type": "Vodka",
+    "locale": "France",
+    "mashbill": "",
+    "abv": "40%",
+    "img": "grey-goose.webp",
+    "category": "vodka",
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "count": 1
+  },
+  {
     "title": "Hayman's Old Tom Gin",
     "size": "750 ml",
     "type": "Gin",
@@ -3009,6 +3041,22 @@
     "count": 1
   },
   {
+    "title": "Lalo Tequila",
+    "size": "750 ml",
+    "type": "Tequila",
+    "locale": "Mexico",
+    "mashbill": "",
+    "abv": "40%",
+    "img": "lalo-blanco.webp",
+    "category": "tequila",
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "count": 1
+  },
+  {
     "title": "Laphroaig 10",
     "size": "750 ml",
     "type": "Single Malt Scotch",
@@ -3116,22 +3164,6 @@
     "notes": [
       {
         "note": ""
-      }
-    ],
-    "count": 1
-  },
-  {
-    "title": "1933 Macleod's 18 Year Old Scotch",
-    "size": "750 ml",
-    "type": "Single Malt Scotch",
-    "locale": "Scotland",
-    "mashbill": "",
-    "abv": "57.15%",
-    "img": "noahs-mill-bourbon.webp",
-    "category": "bourbon",
-    "notes": [
-      {
-        "note": "gift for Feb 2026 whisk(e)y tasting"
       }
     ],
     "count": 1
@@ -5042,6 +5074,22 @@
       }
     ],
     "count": 2
+  },
+  {
+    "title": "Twisted Cow Dune Drifter Reposado",
+    "size": "750 ml",
+    "type": "Tequila",
+    "locale": "New York",
+    "mashbill": "",
+    "abv": "53.6%",
+    "img": "twisted-cow-dune-drifter-reposado.webp",
+    "category": "tequila",
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "count": 1
   },
   {
     "title": "Twisted Cow Rye Dog Spirits",
