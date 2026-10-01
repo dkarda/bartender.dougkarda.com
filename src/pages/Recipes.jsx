@@ -128,7 +128,7 @@ const Recipes = () => {
             badge={recipe.draft && recipe.refined === "n" ? "Sketch" : ""}
             meta={[
               labelOf(RECIPE_LABELS, recipe.category),
-              sort === "score" && Number(recipe.score) > 0 ? `${recipe.score}/5` : "",
+              Number(recipe.score) > 0 ? `${recipe.score}/5` : "",
             ]
               .filter(Boolean)
               .join(" · ")}

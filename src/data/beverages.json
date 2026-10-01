@@ -948,11 +948,11 @@
   },
   {
     "refined": "y",
-    "score": 5,
+    "score": 4,
     "title": "Margarita",
     "img": "margarita.webp",
     "equipment": [
-      "Double rocks glass",
+      "Coupe glass",
       "Jigger",
       "Boston shaker",
       "Hawthorne strainer",
@@ -971,8 +971,8 @@
       "Chill glass",
       "Add some salt to a small plate, rub lime around the outside of the glass and roll across the salt",
       "Pour ingredients into the short shaker tin",
-      "Fill large shaker a quarter of the way with ice, roll in the liquids and shake til cold",
-      "Pour everything into the glass, add garnish and enjoy!"
+      "Fill large shaker half way with ice, roll in the liquids and shake til cold",
+      "Pour everything into the glass and enjoy!"
     ],
     "notes": [
       "There are several who have laid claim to this drink's beginnings, but none have been confirmed as the first, but it probably goes back to the 1930s.",
@@ -1318,7 +1318,8 @@
       "Double strain into glass, add twist and enjoy!"
     ],
     "notes": [
-      "This was first published in David A. Embry's How To Mix Drinks in 1948."
+      "This was first published in David A. Embry's How To Mix Drinks in 1948.",
+      "It is believed to have been named in honor of the hugely popular annual Army-Navy college football game."
     ],
     "category": "gin"
   },
@@ -1468,32 +1469,71 @@
     ],
     "notes": [
       "British soldiers drank quinine heavy tonic to combat maleria, specifically in India.",
-      "The men would then add their daily ration of gin to this to make it more palatable and enjoyable",
+      "The men would then add their daily ration of gin to this to make it more palatable and enjoyable.",
       "It gained traction in The States in the 1930s as tonic companies marketed it at the Chicago and NY World's Fair."
+    ],
+    "category": "gin"
+  },
+  {
+    "refined": "y",
+    "score": 5,
+    "title": "Gin Rickey",
+    "img": "gin-rickey.webp",
+    "equipment": [
+      "Highball glass",
+      "Jigger",
+      "Fruit juicer",
+      "Paring knife",
+      "Bar spoon"
+    ],
+    "ingredients": [
+      "Half of a lime",
+      "Seltzer",
+      "2 oz gin"
+    ],
+    "directions": [
+      "Stack ice in glass",
+      "Squeeze in the lime, then drop lime shell in.",
+      "Add gin and top off with seltzer",
+      "Stir gently with bar spoon and enjoy!"
+    ],
+    "notes": [
+      "Back in the 1880s, Colonel Joseph \"Joe\" Rickey was a regular at Shoomaker's, a popular Washington, D.C. saloon that he eventually purchased.",
+      "Rickey reportedly enjoyed bourbon, ice and sparkling water. Bartender George Williamson is often credited with adding fresh lime juice, creating what became known as the Bourbon Rickey.",
+      "By the 1890s, gin had become the more popular base spirit. The Gin Rickey was documented in print by 1893 and became a widely enjoyed American cocktail."
     ],
     "category": "gin"
   },
   {
     "refined": "n",
     "score": 0,
-    "temptitle": "Gin Rickey",
+    "temptitle": "Bourbon Rickey",
     "title": "",
-    "img": "gin-rickey.webp",
+    "img": "bourbon-rickey.webp",
     "equipment": [
       "Highball glass",
       "Jigger",
-      "Paring knife"
+      "Fruit juicer",
+      "Paring knife",
+      "Bar spoon"
     ],
     "ingredients": [
-      "lime juice",
+      "Half of a lime",
       "seltzer",
-      "2 oz gin"
+      "2 oz bourbon"
     ],
     "directions": [
-      "Stack ice in glass add gin and fill with tonic",
-      "Squeeze in some lime, add wedge to edge of glass and enjoy!"
+      "Stack ice in glass",
+      "Squeeze in the lime, then drop lime shell in.",
+      "Add gin and top off with seltzer",
+      "Stir gently with bar spoon and enjoy!"
     ],
-    "category": "gin"
+    "notes": [
+      "Back in the 1880s, Colonel Joseph \"Joe\" Rickey was a regular at Shoomaker's, a popular Washington, D.C. saloon that he eventually purchased.",
+      "Rickey reportedly enjoyed bourbon, ice and sparkling water. Bartender George Williamson is often credited with adding fresh lime juice, creating what became known as the Bourbon Rickey.",
+      "By the 1890s, gin had become the more popular base spirit. The Gin Rickey was documented in print by 1893 and became a widely enjoyed American cocktail."
+    ],
+    "category": "bourbon"
   },
   {
     "refined": "n",
@@ -5095,32 +5135,35 @@
     "category": "gin"
   },
   {
-    "refined": "n",
-    "score": 0,
-    "temptitle": "Water Lily",
-    "title": "",
+    "refined": "y",
+    "score": 4,
+    "title": "Water Lily",
     "img": "water-lily.webp",
     "equipment": [
       "Coupe glass",
       "Jigger",
-      "Mixing glass",
-      "Julep strainer",
+      "Boston shaker",
+      "Hawthorne strainer",
+      "Fine strainer",
       "Bar spoon"
     ],
     "ingredients": [
       "3/4 oz lemon juice",
       "3/4 oz Creme de Violette",
-      "3/4 oz triple sec",
-      "3/4 oz gin"
+      "3/4 oz Cointreau",
+      "3/4 oz Plymouth gin",
+      "Lemon peel garnish"
     ],
     "directions": [
-      "Rinse juice off of cherry and place in a chilled glass",
-      "Add liquids to the mixing glass, then fill with ice",
-      "Stir until mixing glass gets really cold",
-      "Strain into the coupe and enjoy!"
+      "Chill glass",
+      "Pour ingredients into the short shaker tin",
+      "Fill large shaker with ice, roll in the liquids and shake til cold",
+      "Double strain into glass, add garnish and enjoy!"
     ],
     "notes": [
-      "Can try shaken, just bump lemon to 3/4 and violette to 1/2"
+      "The Water Lily was created in 2007 by New York bartender Richard Boccato at Little Branch in Manhattan's West Village.",
+      "According to accounts of its creation, Georgette Moger-Petraske, a regular at the bar and the wife of influential bartender Sasha Petraske, asked Boccato to make her a drink using gin and violet syrup.",
+      "Boccato developed a cocktail combining gin, orange liqueur, lemon juice and violet flavoring. When it came time to name it, they chose Water Lily in reference to Georgette's middle name, Lillian."
     ],
     "category": "gin"
   },
@@ -5695,7 +5738,8 @@
       "Double strain into glass, top with the bubbly and enjoy!"
     ],
     "notes": [
-      "This originated in a 1930s pamphlet, Bacardi And Its Many Uses."
+      "This originated in a 1930s pamphlet, \"Bacardi\" And Its Many Uses.",
+      "The cocktail evokes the era when air travel and international mail were symbols of modernity and luxury."
     ],
     "category": "rum"
   },
@@ -6031,7 +6075,7 @@
     "notes": [
       "This is said to have been created in the 1930s in Los Angeles for the then childhood actress of the namesake.",
       "The belief is that Miss Temple actually didn't care for the drink at all.",
-      "I can't, in good conscience, carry nor serve day-glo cherries."
+      "Luxardo! I can't, in good conscience, carry nor serve, day-glo cherries."
     ],
     "category": "na"
   },
